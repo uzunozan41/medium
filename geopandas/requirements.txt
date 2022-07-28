@@ -1,0 +1,22 @@
+Click to view session information
+-----
+folium              0.12.1.post1
+geopandas           0.10.2
+matplotlib          3.5.2
+pandas              1.4.2
+rasterio            1.2.10
+session_info        1.0.0
+sqlalchemy          1.4.37
+-----
+Click to view modules imported as dependencies
+-----
+IPython             8.4.0
+jupyter_client      7.3.4
+jupyter_core        4.10.0
+jupyterlab          3.4.3
+notebook            6.4.12
+-----
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) [GCC 9.4.0]
+Linux-5.4.0-74-generic-x86_64-with-glibc2.29
+-----
+Session information updated at 2022-07-28 22:16
