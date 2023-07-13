@@ -1,0 +1,999 @@
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8112"},"Id":1000,"Title":"The Maltese Falcon","Time":100,"IMDB_Rating":8.0,"Director":"John Huston","Genre":["Film-Noir","Mystery"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8113"},"Id":1001,"Title":"To Have and Have Not","Time":100,"IMDB_Rating":7.8,"Director":"Howard Hawks","Genre":["Adventure","Comedy","Film-Noir"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8114"},"Id":1002,"Title":"Key Largo","Time":100,"IMDB_Rating":7.8,"Director":"John Huston","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8115"},"Id":1003,"Title":"The Innocents","Time":100,"IMDB_Rating":7.8,"Director":"Jack Clayton","Genre":["Horror"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8116"},"Id":1004,"Title":"Willy Wonka & the Chocolate Factory","Time":100,"IMDB_Rating":7.8,"Director":"Mel Stuart","Genre":["Family","Fantasy","Musical"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8117"},"Id":1005,"Title":"Drive","Time":100,"IMDB_Rating":7.8,"Director":"Nicolas Winding Refn","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8118"},"Id":1006,"Title":"Under sandet","Time":100,"IMDB_Rating":7.8,"Director":"Martin Zandvliet","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8119"},"Id":1007,"Title":"Toy Story 4","Time":100,"IMDB_Rating":7.8,"Director":"Josh Cooley","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811a"},"Id":1008,"Title":"Finding Nemo","Time":100,"IMDB_Rating":8.1,"Director":"Andrew Stanton","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811b"},"Id":1009,"Title":"Soul","Time":100,"IMDB_Rating":8.1,"Director":"Pete Docter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811c"},"Id":1010,"Title":"Dark City","Time":100,"IMDB_Rating":7.6,"Director":"Alex Proyas","Genre":["Mystery","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811d"},"Id":1011,"Title":"Eastern Promises","Time":100,"IMDB_Rating":7.6,"Director":"David Cronenberg","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811e"},"Id":1012,"Title":"50/50","Time":100,"IMDB_Rating":7.6,"Director":"Jonathan Levine","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a811f"},"Id":1013,"Title":"King Kong","Time":100,"IMDB_Rating":7.9,"Director":"Merian C. Cooper","Genre":["Adventure","Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8120"},"Id":1014,"Title":"The Artist","Time":100,"IMDB_Rating":7.9,"Director":"Michel Hazanavicius","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8121"},"Id":1015,"Title":"I, Daniel Blake","Time":100,"IMDB_Rating":7.9,"Director":"Ken Loach","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8122"},"Id":1016,"Title":"Belle de jour","Time":100,"IMDB_Rating":7.7,"Director":"Luis Buñuel","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8123"},"Id":1017,"Title":"Rupan sansei: Kariosutoro no shiro","Time":100,"IMDB_Rating":7.7,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8124"},"Id":1018,"Title":"Glengarry Glen Ross","Time":100,"IMDB_Rating":7.7,"Director":"James Foley","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8125"},"Id":1019,"Title":"The Hangover","Time":100,"IMDB_Rating":7.7,"Director":"Todd Phillips","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8126"},"Id":1020,"Title":"Coraline","Time":100,"IMDB_Rating":7.7,"Director":"Henry Selick","Genre":["Animation","Drama","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8127"},"Id":1021,"Title":"Tangled","Time":100,"IMDB_Rating":7.7,"Director":"Nathan Greno","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8128"},"Id":1022,"Title":"The Lego Movie","Time":100,"IMDB_Rating":7.7,"Director":"Christopher Miller","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8129"},"Id":1023,"Title":"Groundhog Day","Time":101,"IMDB_Rating":8.0,"Director":"Harold Ramis","Genre":["Comedy","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812a"},"Id":1024,"Title":"Mou gaan dou","Time":101,"IMDB_Rating":8.0,"Director":"Andrew Lau","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812b"},"Id":1025,"Title":"The Sandlot","Time":101,"IMDB_Rating":7.8,"Director":"David Mickey Evans","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812c"},"Id":1026,"Title":"Todo sobre mi madre","Time":101,"IMDB_Rating":7.8,"Director":"Pedro Almodóvar","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812d"},"Id":1027,"Title":"Little Miss Sunshine","Time":101,"IMDB_Rating":7.8,"Director":"Jonathan Dayton","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812e"},"Id":1028,"Title":"Kubo and the Two Strings","Time":101,"IMDB_Rating":7.8,"Director":"Travis Knight","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a812f"},"Id":1029,"Title":"Before Sunrise","Time":101,"IMDB_Rating":8.1,"Director":"Richard Linklater","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8130"},"Id":1030,"Title":"American Psycho","Time":101,"IMDB_Rating":7.6,"Director":"Mary Harron","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8131"},"Id":1031,"Title":"The Others","Time":101,"IMDB_Rating":7.6,"Director":"Alejandro Amenábar","Genre":["Horror","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8132"},"Id":1032,"Title":"Serbuan maut","Time":101,"IMDB_Rating":7.6,"Director":"Gareth Evans","Genre":["Action","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8133"},"Id":1033,"Title":"Gifted","Time":101,"IMDB_Rating":7.6,"Director":"Marc Webb","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8134"},"Id":1034,"Title":"The Lost Weekend","Time":101,"IMDB_Rating":7.9,"Director":"Billy Wilder","Genre":["Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8135"},"Id":1035,"Title":"Strangers on a Train","Time":101,"IMDB_Rating":7.9,"Director":"Alfred Hitchcock","Genre":["Crime","Film-Noir","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8136"},"Id":1036,"Title":"Hunt for the Wilderpeople","Time":101,"IMDB_Rating":7.9,"Director":"Taika Waititi","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8137"},"Id":1037,"Title":"Isle of Dogs","Time":101,"IMDB_Rating":7.9,"Director":"Wes Anderson","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8138"},"Id":1038,"Title":"Dil Bechara","Time":101,"IMDB_Rating":7.9,"Director":"Mukesh Chhabra","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8139"},"Id":1039,"Title":"Peeping Tom","Time":101,"IMDB_Rating":7.7,"Director":"Michael Powell","Genre":["Drama","Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813a"},"Id":1040,"Title":"The Machinist","Time":101,"IMDB_Rating":7.7,"Director":"Brad Anderson","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813b"},"Id":1041,"Title":"This Is England","Time":101,"IMDB_Rating":7.7,"Director":"Shane Meadows","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813c"},"Id":1042,"Title":"Gake no ue no Ponyo","Time":101,"IMDB_Rating":7.7,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813d"},"Id":1043,"Title":"Wreck-It Ralph","Time":101,"IMDB_Rating":7.7,"Director":"Rich Moore","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813e"},"Id":1044,"Title":"Oldeuboi","Time":101,"IMDB_Rating":8.4,"Director":"Chan-wook Park","Genre":["Action","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a813f"},"Id":1045,"Title":"The Wizard of Oz","Time":102,"IMDB_Rating":8.0,"Director":"Victor Fleming","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8140"},"Id":1046,"Title":"Casablanca","Time":102,"IMDB_Rating":8.5,"Director":"Michael Curtiz","Genre":["Drama","Romance","War"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8141"},"Id":1047,"Title":"Bringing Up Baby","Time":102,"IMDB_Rating":7.8,"Director":"Howard Hawks","Genre":["Comedy","Family","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8142"},"Id":1048,"Title":"Big Hero 6","Time":102,"IMDB_Rating":7.8,"Director":"Don Hall","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8143"},"Id":1049,"Title":"How to Train Your Dragon 2","Time":102,"IMDB_Rating":7.8,"Director":"Dean DeBlois","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8144"},"Id":1050,"Title":"Paper Moon","Time":102,"IMDB_Rating":8.1,"Director":"Peter Bogdanovich","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8145"},"Id":1051,"Title":"Chung Hing sam lam","Time":102,"IMDB_Rating":8.1,"Director":"Kar-Wai Wong","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8146"},"Id":1052,"Title":"Dazed and Confused","Time":102,"IMDB_Rating":7.6,"Director":"Richard Linklater","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8147"},"Id":1053,"Title":"Hell or High Water","Time":102,"IMDB_Rating":7.6,"Director":"David Mackenzie","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8148"},"Id":1054,"Title":"Searching","Time":102,"IMDB_Rating":7.6,"Director":"Aneesh Chaganty","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8149"},"Id":1055,"Title":"The Adventures of Robin Hood","Time":102,"IMDB_Rating":7.9,"Director":"Michael Curtiz","Genre":["Action","Adventure","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814a"},"Id":1056,"Title":"Notorious","Time":102,"IMDB_Rating":7.9,"Director":"Alfred Hitchcock","Genre":["Drama","Film-Noir","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814b"},"Id":1057,"Title":"Le charme discret de la bourgeoisie","Time":102,"IMDB_Rating":7.9,"Director":"Luis Buñuel","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814c"},"Id":1058,"Title":"Once Were Warriors","Time":102,"IMDB_Rating":7.9,"Director":"Lee Tamahori","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814d"},"Id":1059,"Title":"Requiem for a Dream","Time":102,"IMDB_Rating":8.3,"Director":"Darren Aronofsky","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814e"},"Id":1060,"Title":"Dirty Harry","Time":102,"IMDB_Rating":7.7,"Director":"Don Siegel","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a814f"},"Id":1061,"Title":"Enter the Dragon","Time":102,"IMDB_Rating":7.7,"Director":"Robert Clouse","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8150"},"Id":1062,"Title":"Lost in Translation","Time":102,"IMDB_Rating":7.7,"Director":"Sofia Coppola","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8151"},"Id":1063,"Title":"Bom Yeoareum Gaeul Gyeoul Geurigo Bom","Time":103,"IMDB_Rating":8.0,"Director":"Ki-duk Kim","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8152"},"Id":1064,"Title":"The Perks of Being a Wallflower","Time":103,"IMDB_Rating":8.0,"Director":"Stephen Chbosky","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8153"},"Id":1065,"Title":"Ferris Bueller's Day Off","Time":103,"IMDB_Rating":7.8,"Director":"John Hughes","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8154"},"Id":1066,"Title":"Majo no takkyûbin","Time":103,"IMDB_Rating":7.8,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8155"},"Id":1067,"Title":"Hana-bi","Time":103,"IMDB_Rating":7.8,"Director":"Takeshi Kitano","Genre":["Crime","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8156"},"Id":1068,"Title":"Paddington 2","Time":103,"IMDB_Rating":7.8,"Director":"Paul King","Genre":["Adventure","Comedy","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8157"},"Id":1069,"Title":"The Truman Show","Time":103,"IMDB_Rating":8.1,"Director":"Peter Weir","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8158"},"Id":1070,"Title":"Home Alone","Time":103,"IMDB_Rating":7.6,"Director":"Chris Columbus","Genre":["Comedy","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8159"},"Id":1071,"Title":"Saw","Time":103,"IMDB_Rating":7.6,"Director":"James Wan","Genre":["Horror","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815a"},"Id":1072,"Title":"Toy Story 3","Time":103,"IMDB_Rating":8.2,"Director":"Lee Unkrich","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815b"},"Id":1073,"Title":"My Left Foot: The Story of Christy Brown","Time":103,"IMDB_Rating":7.9,"Director":"Jim Sheridan","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815c"},"Id":1074,"Title":"Singin' in the Rain","Time":103,"IMDB_Rating":8.3,"Director":"Stanley Donen","Genre":["Comedy","Musical","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815d"},"Id":1075,"Title":"Vampire Hunter D: Bloodlust","Time":103,"IMDB_Rating":7.7,"Director":"Yoshiaki Kawajiri","Genre":["Animation","Action","Fantasy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815e"},"Id":1076,"Title":"Omoide no Mânî","Time":103,"IMDB_Rating":7.7,"Director":"James Simone","Genre":["Animation","Drama","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a815f"},"Id":1077,"Title":"Au revoir les enfants","Time":104,"IMDB_Rating":8.0,"Director":"Louis Malle","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8160"},"Id":1078,"Title":"The Lunchbox","Time":104,"IMDB_Rating":7.8,"Director":"Ritesh Batra","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8161"},"Id":1079,"Title":"The Third Man","Time":104,"IMDB_Rating":8.1,"Director":"Carol Reed","Genre":["Film-Noir","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8162"},"Id":1080,"Title":"A Wednesday","Time":104,"IMDB_Rating":8.1,"Director":"Neeraj Pandey","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8163"},"Id":1081,"Title":"Huo Yuan Jia","Time":104,"IMDB_Rating":7.6,"Director":"Ronny Yu","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8164"},"Id":1082,"Title":"The Visitor","Time":104,"IMDB_Rating":7.6,"Director":"Tom McCarthy","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8165"},"Id":1083,"Title":"Harvey","Time":104,"IMDB_Rating":7.9,"Director":"Henry Koster","Genre":["Comedy","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8166"},"Id":1084,"Title":"Crimes and Misdemeanors","Time":104,"IMDB_Rating":7.9,"Director":"Woody Allen","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8167"},"Id":1085,"Title":"Snatch","Time":104,"IMDB_Rating":8.3,"Director":"Guy Ritchie","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8168"},"Id":1086,"Title":"Tumbbad","Time":104,"IMDB_Rating":8.3,"Director":"Rahi Anil Barve","Genre":["Drama","Fantasy","Horror"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8169"},"Id":1087,"Title":"The French Connection","Time":104,"IMDB_Rating":7.7,"Director":"William Friedkin","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816a"},"Id":1088,"Title":"The Taking of Pelham One Two Three","Time":104,"IMDB_Rating":7.7,"Director":"Joseph Sargent","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816b"},"Id":1089,"Title":"Who Framed Roger Rabbit","Time":104,"IMDB_Rating":7.7,"Director":"Robert Zemeckis","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816c"},"Id":1090,"Title":"God's Own Country","Time":104,"IMDB_Rating":7.7,"Director":"Francis Lee","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816d"},"Id":1091,"Title":"Get Out","Time":104,"IMDB_Rating":7.7,"Director":"Jordan Peele","Genre":["Horror","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816e"},"Id":1092,"Title":"Festen","Time":105,"IMDB_Rating":8.0,"Director":"Thomas Vinterberg","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a816f"},"Id":1093,"Title":"Jules et Jim","Time":105,"IMDB_Rating":7.8,"Director":"François Truffaut","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8170"},"Id":1094,"Title":"Kramer vs. Kramer","Time":105,"IMDB_Rating":7.8,"Director":"Robert Benton","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8171"},"Id":1095,"Title":"Ghostbusters","Time":105,"IMDB_Rating":7.8,"Director":"Ivan Reitman","Genre":["Action","Comedy","Fantasy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8172"},"Id":1096,"Title":"It Happened One Night","Time":105,"IMDB_Rating":8.1,"Director":"Frank Capra","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8173"},"Id":1097,"Title":"Le samouraï","Time":105,"IMDB_Rating":8.1,"Director":"Jean-Pierre Melville","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8174"},"Id":1098,"Title":"Mysterious Skin","Time":105,"IMDB_Rating":7.6,"Director":"Gregg Araki","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8175"},"Id":1099,"Title":"Dial M for Murder","Time":105,"IMDB_Rating":8.2,"Director":"Alfred Hitchcock","Genre":["Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8176"},"Id":1100,"Title":"Edward Scissorhands","Time":105,"IMDB_Rating":7.9,"Director":"Tim Burton","Genre":["Drama","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8177"},"Id":1101,"Title":"Repulsion","Time":105,"IMDB_Rating":7.7,"Director":"Roman Polanski","Genre":["Drama","Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8178"},"Id":1102,"Title":"The African Queen","Time":105,"IMDB_Rating":7.7,"Director":"John Huston","Genre":["Adventure","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8179"},"Id":1103,"Title":"The Odd Couple","Time":105,"IMDB_Rating":7.7,"Director":"Gene Saks","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817a"},"Id":1104,"Title":"Shine","Time":105,"IMDB_Rating":7.7,"Director":"Scott Hicks","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817b"},"Id":1105,"Title":"In America","Time":105,"IMDB_Rating":7.7,"Director":"Jim Sheridan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817c"},"Id":1106,"Title":"Me and Earl and the Dying Girl","Time":105,"IMDB_Rating":7.7,"Director":"Alfonso Gomez-Rejon","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817d"},"Id":1107,"Title":"Coco","Time":105,"IMDB_Rating":8.4,"Director":"Lee Unkrich","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817e"},"Id":1108,"Title":"Kind Hearts and Coronets","Time":106,"IMDB_Rating":8.0,"Director":"Robert Hamer","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a817f"},"Id":1109,"Title":"The Graduate","Time":106,"IMDB_Rating":8.0,"Director":"Mike Nichols","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8180"},"Id":1110,"Title":"Young Frankenstein","Time":106,"IMDB_Rating":8.0,"Director":"Mel Brooks","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8181"},"Id":1111,"Title":"Yip Man","Time":106,"IMDB_Rating":8.0,"Director":"Wilson Yip","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8182"},"Id":1112,"Title":"The Usual Suspects","Time":106,"IMDB_Rating":8.5,"Director":"Bryan Singer","Genre":["Crime","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8183"},"Id":1113,"Title":"Whiplash","Time":106,"IMDB_Rating":8.5,"Director":"Damien Chazelle","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8184"},"Id":1114,"Title":"Gattaca","Time":106,"IMDB_Rating":7.8,"Director":"Andrew Niccol","Genre":["Drama","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8185"},"Id":1115,"Title":"Kokuhaku","Time":106,"IMDB_Rating":7.8,"Director":"Tetsuya Nakashima","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8186"},"Id":1116,"Title":"Dunkirk","Time":106,"IMDB_Rating":7.8,"Director":"Christopher Nolan","Genre":["Action","Drama","History"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8187"},"Id":1117,"Title":"Contratiempo","Time":106,"IMDB_Rating":8.1,"Director":"Oriol Paulo","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8188"},"Id":1118,"Title":"Y tu mamá también","Time":106,"IMDB_Rating":7.6,"Director":"Alfonso Cuarón","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a8189"},"Id":1119,"Title":"Finding Neverland","Time":106,"IMDB_Rating":7.6,"Director":"Marc Forster","Genre":["Biography","Drama","Family"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a818a"},"Id":1120,"Title":"Sing Street","Time":106,"IMDB_Rating":7.9,"Director":"John Carney","Genre":["Comedy","Drama","Music"]}
+{"_id":{"$oid":"64a9b89a60b80dec3a0a818b"},"Id":1121,"Title":"Cape Fear","Time":106,"IMDB_Rating":7.7,"Director":"J. Lee Thompson","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a818c"},"Id":1122,"Title":"Kimi no na wa.","Time":106,"IMDB_Rating":8.4,"Director":"Makoto Shinkai","Genre":["Animation","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a818d"},"Id":1123,"Title":"The Terminator","Time":107,"IMDB_Rating":8.0,"Director":"James Cameron","Genre":["Action","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a818e"},"Id":1124,"Title":"Down by Law","Time":107,"IMDB_Rating":7.8,"Director":"Jim Jarmusch","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a818f"},"Id":1125,"Title":"Predator","Time":107,"IMDB_Rating":7.8,"Director":"John McTiernan","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8190"},"Id":1126,"Title":"Misery","Time":107,"IMDB_Rating":7.8,"Director":"Rob Reiner","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8191"},"Id":1127,"Title":"Zerkalo","Time":107,"IMDB_Rating":8.1,"Director":"Andrei Tarkovsky","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8192"},"Id":1128,"Title":"The Sixth Sense","Time":107,"IMDB_Rating":8.1,"Director":"M. Night Shyamalan","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8193"},"Id":1129,"Title":"Die Welle","Time":107,"IMDB_Rating":7.6,"Director":"Dennis Gansel","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8194"},"Id":1130,"Title":"Moana","Time":107,"IMDB_Rating":7.6,"Director":"Ron Clements","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8195"},"Id":1131,"Title":"Lock, Stock and Two Smoking Barrels","Time":107,"IMDB_Rating":8.2,"Director":"Guy Ritchie","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8196"},"Id":1132,"Title":"Hannah and Her Sisters","Time":107,"IMDB_Rating":7.9,"Director":"Woody Allen","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8197"},"Id":1133,"Title":"In Bruges","Time":107,"IMDB_Rating":7.9,"Director":"Martin McDonagh","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8198"},"Id":1134,"Title":"Double Indemnity","Time":107,"IMDB_Rating":8.3,"Director":"Billy Wilder","Genre":["Crime","Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8199"},"Id":1135,"Title":"Withnail & I","Time":107,"IMDB_Rating":7.7,"Director":"Bruce Robinson","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819a"},"Id":1136,"Title":"Spoorloos","Time":107,"IMDB_Rating":7.7,"Director":"George Sluizer","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819b"},"Id":1137,"Title":"O Brother, Where Art Thou?","Time":107,"IMDB_Rating":7.7,"Director":"Joel Coen","Genre":["Adventure","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819c"},"Id":1138,"Title":"Wind River","Time":107,"IMDB_Rating":7.7,"Director":"Taylor Sheridan","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819d"},"Id":1139,"Title":"Cat on a Hot Tin Roof","Time":108,"IMDB_Rating":8.0,"Director":"Richard Brooks","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819e"},"Id":1140,"Title":"La Strada","Time":108,"IMDB_Rating":8.0,"Director":"Federico Fellini","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a819f"},"Id":1141,"Title":"Black Swan","Time":108,"IMDB_Rating":8.0,"Director":"Darren Aronofsky","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a0"},"Id":1142,"Title":"Zootopia","Time":108,"IMDB_Rating":8.0,"Director":"Byron Howard","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a1"},"Id":1143,"Title":"Deadpool","Time":108,"IMDB_Rating":8.0,"Director":"Tim Miller","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a2"},"Id":1144,"Title":"Shadow of a Doubt","Time":108,"IMDB_Rating":7.8,"Director":"Alfred Hitchcock","Genre":["Film-Noir","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a3"},"Id":1145,"Title":"Wait Until Dark","Time":108,"IMDB_Rating":7.8,"Director":"Terence Young","Genre":["Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a4"},"Id":1146,"Title":"Guess Who's Coming to Dinner","Time":108,"IMDB_Rating":7.8,"Director":"Stanley Kramer","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a5"},"Id":1147,"Title":"Back to the Future Part II","Time":108,"IMDB_Rating":7.8,"Director":"Robert Zemeckis","Genre":["Adventure","Comedy","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a6"},"Id":1148,"Title":"The Boondock Saints","Time":108,"IMDB_Rating":7.8,"Director":"Troy Duffy","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a7"},"Id":1149,"Title":"October Sky","Time":108,"IMDB_Rating":7.8,"Director":"Joe Johnston","Genre":["Biography","Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a8"},"Id":1150,"Title":"On the Waterfront","Time":108,"IMDB_Rating":8.1,"Director":"Elia Kazan","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81a9"},"Id":1151,"Title":"Funny Games","Time":108,"IMDB_Rating":7.6,"Director":"Michael Haneke","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81aa"},"Id":1152,"Title":"Jojo Rabbit","Time":108,"IMDB_Rating":7.9,"Director":"Taika Waititi","Genre":["Comedy","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ab"},"Id":1153,"Title":"Eternal Sunshine of the Spotless Mind","Time":108,"IMDB_Rating":8.3,"Director":"Michel Gondry","Genre":["Drama","Romance","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ac"},"Id":1154,"Title":"Il postino","Time":108,"IMDB_Rating":7.7,"Director":"Michael Radford","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ad"},"Id":1155,"Title":"The Bourne Supremacy","Time":108,"IMDB_Rating":7.7,"Director":"Paul Greengrass","Genre":["Action","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ae"},"Id":1156,"Title":"Ex Machina","Time":108,"IMDB_Rating":7.7,"Director":"Alex Garland","Genre":["Drama","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81af"},"Id":1157,"Title":"Le Petit Prince","Time":108,"IMDB_Rating":7.7,"Director":"Mark Osborne","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b0"},"Id":1158,"Title":"Psycho","Time":109,"IMDB_Rating":8.5,"Director":"Alfred Hitchcock","Genre":["Horror","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b1"},"Id":1159,"Title":"The King of Comedy","Time":109,"IMDB_Rating":7.8,"Director":"Martin Scorsese","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b2"},"Id":1160,"Title":"Lilja 4-ever","Time":109,"IMDB_Rating":7.8,"Director":"Lukas Moodysson","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b3"},"Id":1161,"Title":"The Thing","Time":109,"IMDB_Rating":8.1,"Director":"John Carpenter","Genre":["Horror","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b4"},"Id":1162,"Title":"On Golden Pond","Time":109,"IMDB_Rating":7.6,"Director":"Mark Rydell","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b5"},"Id":1163,"Title":"Lethal Weapon","Time":109,"IMDB_Rating":7.6,"Director":"Richard Donner","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b6"},"Id":1164,"Title":"End of Watch","Time":109,"IMDB_Rating":7.6,"Director":"David Ayer","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b7"},"Id":1165,"Title":"Children of Men","Time":109,"IMDB_Rating":7.9,"Director":"Alfonso Cuarón","Genre":["Adventure","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b8"},"Id":1166,"Title":"The Wrestler","Time":109,"IMDB_Rating":7.9,"Director":"Darren Aronofsky","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81b9"},"Id":1167,"Title":"Before Midnight","Time":109,"IMDB_Rating":7.9,"Director":"Richard Linklater","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ba"},"Id":1168,"Title":"Deliverance","Time":109,"IMDB_Rating":7.7,"Director":"John Boorman","Genre":["Adventure","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81bb"},"Id":1169,"Title":"Butch Cassidy and the Sundance Kid","Time":110,"IMDB_Rating":8.0,"Director":"George Roy Hill","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81bc"},"Id":1170,"Title":"La règle du jeu","Time":110,"IMDB_Rating":8.0,"Director":"Jean Renoir","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81bd"},"Id":1171,"Title":"Central do Brasil","Time":110,"IMDB_Rating":8.0,"Director":"Walter Salles","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81be"},"Id":1172,"Title":"Vizontele","Time":110,"IMDB_Rating":8.0,"Director":"Yilmaz Erdogan","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81bf"},"Id":1173,"Title":"Vozvrashchenie","Time":110,"IMDB_Rating":8.0,"Director":"Andrey Zvyagintsev","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c0"},"Id":1174,"Title":"Léon","Time":110,"IMDB_Rating":8.5,"Director":"Luc Besson","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c1"},"Id":1175,"Title":"Gongdong gyeongbi guyeok JSA","Time":110,"IMDB_Rating":7.8,"Director":"Chan-wook Park","Genre":["Action","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c2"},"Id":1176,"Title":"La passion de Jeanne d'Arc","Time":110,"IMDB_Rating":8.1,"Director":"Carl Theodor Dreyer","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c3"},"Id":1177,"Title":"Le notti di Cabiria","Time":110,"IMDB_Rating":8.1,"Director":"Federico Fellini","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c4"},"Id":1178,"Title":"Kumonosu-jô","Time":110,"IMDB_Rating":8.1,"Director":"Akira Kurosawa","Genre":["Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c5"},"Id":1179,"Title":"The Royal Tenenbaums","Time":110,"IMDB_Rating":7.6,"Director":"Wes Anderson","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c6"},"Id":1180,"Title":"The Illusionist","Time":110,"IMDB_Rating":7.6,"Director":"Neil Burger","Genre":["Drama","Fantasy","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c7"},"Id":1181,"Title":"True Grit","Time":110,"IMDB_Rating":7.6,"Director":"Ethan Coen","Genre":["Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c8"},"Id":1182,"Title":"Yôjinbô","Time":110,"IMDB_Rating":8.2,"Director":"Akira Kurosawa","Genre":["Action","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81c9"},"Id":1183,"Title":"In the Heat of the Night","Time":110,"IMDB_Rating":7.9,"Director":"Norman Jewison","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ca"},"Id":1184,"Title":"Gilda","Time":110,"IMDB_Rating":7.7,"Director":"Charles Vidor","Genre":["Drama","Film-Noir","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81cb"},"Id":1185,"Title":"Goldfinger","Time":110,"IMDB_Rating":7.7,"Director":"Guy Hamilton","Genre":["Action","Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81cc"},"Id":1186,"Title":"Billy Elliot","Time":110,"IMDB_Rating":7.7,"Director":"Stephen Daldry","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81cd"},"Id":1187,"Title":"Lucky Number Slevin","Time":110,"IMDB_Rating":7.7,"Director":"Paul McGuigan","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ce"},"Id":1188,"Title":"Sunset Blvd.","Time":110,"IMDB_Rating":8.4,"Director":"Billy Wilder","Genre":["Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81cf"},"Id":1189,"Title":"Ratatouille","Time":111,"IMDB_Rating":8.0,"Director":"Brad Bird","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d0"},"Id":1190,"Title":"Bonnie and Clyde","Time":111,"IMDB_Rating":7.8,"Director":"Arthur Penn","Genre":["Action","Biography","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d1"},"Id":1191,"Title":"Dip huet seung hung","Time":111,"IMDB_Rating":7.8,"Director":"John Woo","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d2"},"Id":1192,"Title":"Ace in the Hole","Time":111,"IMDB_Rating":8.1,"Director":"Billy Wilder","Genre":["Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d3"},"Id":1193,"Title":"Kill Bill: Vol. 1","Time":111,"IMDB_Rating":8.1,"Director":"Quentin Tarantino","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d4"},"Id":1194,"Title":"Blowup","Time":111,"IMDB_Rating":7.6,"Director":"Michelangelo Antonioni","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d5"},"Id":1195,"Title":"The Florida Project","Time":111,"IMDB_Rating":7.6,"Director":"Sean Baker","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d6"},"Id":1196,"Title":"Mimi wo sumaseba","Time":111,"IMDB_Rating":7.9,"Director":"Yoshifumi Kondô","Genre":["Animation","Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d7"},"Id":1197,"Title":"Rebel Without a Cause","Time":111,"IMDB_Rating":7.7,"Director":"Nicholas Ray","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d8"},"Id":1198,"Title":"The Broken Circle Breakdown","Time":111,"IMDB_Rating":7.7,"Director":"Felix van Groeningen","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81d9"},"Id":1199,"Title":"Planet of the Apes","Time":112,"IMDB_Rating":8.0,"Director":"Franklin J. Schaffner","Genre":["Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81da"},"Id":1200,"Title":"The Straight Story","Time":112,"IMDB_Rating":8.0,"Director":"David Lynch","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81db"},"Id":1201,"Title":"Le scaphandre et le papillon","Time":112,"IMDB_Rating":8.0,"Director":"Julian Schnabel","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81dc"},"Id":1202,"Title":"The Intouchables","Time":112,"IMDB_Rating":8.5,"Director":"Olivier Nakache","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81dd"},"Id":1203,"Title":"Boyz n the Hood","Time":112,"IMDB_Rating":7.8,"Director":"John Singleton","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81de"},"Id":1204,"Title":"The Long Goodbye","Time":112,"IMDB_Rating":7.6,"Director":"Robert Altman","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81df"},"Id":1205,"Title":"Escape from Alcatraz","Time":112,"IMDB_Rating":7.6,"Director":"Don Siegel","Genre":["Action","Biography","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e0"},"Id":1206,"Title":"El cuerpo","Time":112,"IMDB_Rating":7.6,"Director":"Oriol Paulo","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e1"},"Id":1207,"Title":"The Philadelphia Story","Time":112,"IMDB_Rating":7.9,"Director":"George Cukor","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e2"},"Id":1208,"Title":"Hable con ella","Time":112,"IMDB_Rating":7.9,"Director":"Pedro Almodóvar","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e3"},"Id":1209,"Title":"District 9","Time":112,"IMDB_Rating":7.9,"Director":"Neill Blomkamp","Genre":["Action","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e4"},"Id":1210,"Title":"Babam ve Oglum","Time":112,"IMDB_Rating":8.3,"Director":"Çagan Irmak","Genre":["Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e5"},"Id":1211,"Title":"The Last of the Mohicans","Time":112,"IMDB_Rating":7.7,"Director":"Michael Mann","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e6"},"Id":1212,"Title":"Crash","Time":112,"IMDB_Rating":7.7,"Director":"Paul Haggis","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e7"},"Id":1213,"Title":"Rear Window","Time":112,"IMDB_Rating":8.4,"Director":"Alfred Hitchcock","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e8"},"Id":1214,"Title":"Il conformista","Time":113,"IMDB_Rating":8.0,"Director":"Bernardo Bertolucci","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81e9"},"Id":1215,"Title":"Donnie Darko","Time":113,"IMDB_Rating":8.0,"Director":"Richard Kelly","Genre":["Drama","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ea"},"Id":1216,"Title":"Wonder","Time":113,"IMDB_Rating":8.0,"Director":"Stephen Chbosky","Genre":["Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81eb"},"Id":1217,"Title":"Togo","Time":113,"IMDB_Rating":8.0,"Director":"Ericson Core","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ec"},"Id":1218,"Title":"Midnight Cowboy","Time":113,"IMDB_Rating":7.8,"Director":"John Schlesinger","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ed"},"Id":1219,"Title":"The Conversation","Time":113,"IMDB_Rating":7.8,"Director":"Francis Ford Coppola","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ee"},"Id":1220,"Title":"Remember the Titans","Time":113,"IMDB_Rating":7.8,"Director":"Boaz Yakin","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ef"},"Id":1221,"Title":"Ondskan","Time":113,"IMDB_Rating":7.8,"Director":"Mikael Håfström","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f0"},"Id":1222,"Title":"The Gentlemen","Time":113,"IMDB_Rating":7.8,"Director":"Guy Ritchie","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f1"},"Id":1223,"Title":"La Grande Illusion","Time":113,"IMDB_Rating":8.1,"Director":"Jean Renoir","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f2"},"Id":1224,"Title":"Falling Down","Time":113,"IMDB_Rating":7.6,"Director":"Joel Schumacher","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f3"},"Id":1225,"Title":"28 Days Later...","Time":113,"IMDB_Rating":7.6,"Director":"Danny Boyle","Genre":["Drama","Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f4"},"Id":1226,"Title":"The Butterfly Effect","Time":113,"IMDB_Rating":7.6,"Director":"Eric Bress","Genre":["Drama","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f5"},"Id":1227,"Title":"Celda 211","Time":113,"IMDB_Rating":7.6,"Director":"Daniel Monzón","Genre":["Action","Adventure","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f6"},"Id":1228,"Title":"Baby Driver","Time":113,"IMDB_Rating":7.6,"Director":"Edgar Wright","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f7"},"Id":1229,"Title":"Charade","Time":113,"IMDB_Rating":7.9,"Director":"Stanley Donen","Genre":["Comedy","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f8"},"Id":1230,"Title":"4 luni, 3 saptamâni si 2 zile","Time":113,"IMDB_Rating":7.9,"Director":"Cristian Mungiu","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81f9"},"Id":1231,"Title":"Edge of Tomorrow","Time":113,"IMDB_Rating":7.9,"Director":"Doug Liman","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81fa"},"Id":1232,"Title":"Sabrina","Time":113,"IMDB_Rating":7.7,"Director":"Billy Wilder","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81fb"},"Id":1233,"Title":"Star Trek II: The Wrath of Khan","Time":113,"IMDB_Rating":7.7,"Director":"Nicholas Meyer","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81fc"},"Id":1234,"Title":"Being John Malkovich","Time":113,"IMDB_Rating":7.7,"Director":"Spike Jonze","Genre":["Comedy","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81fd"},"Id":1235,"Title":"Memento","Time":113,"IMDB_Rating":8.4,"Director":"Christopher Nolan","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81fe"},"Id":1236,"Title":"The Imitation Game","Time":114,"IMDB_Rating":8.0,"Director":"Morten Tyldum","Genre":["Biography","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a81ff"},"Id":1237,"Title":"The Goonies","Time":114,"IMDB_Rating":7.8,"Director":"Richard Donner","Genre":["Adventure","Comedy","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8200"},"Id":1238,"Title":"White Heat","Time":114,"IMDB_Rating":8.1,"Director":"Raoul Walsh","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8201"},"Id":1239,"Title":"Batoru rowaiaru","Time":114,"IMDB_Rating":7.6,"Director":"Kinji Fukasaku","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8202"},"Id":1240,"Title":"Gone Baby Gone","Time":114,"IMDB_Rating":7.6,"Director":"Ben Affleck","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8203"},"Id":1241,"Title":"The Big Sleep","Time":114,"IMDB_Rating":7.9,"Director":"Howard Hawks","Genre":["Crime","Film-Noir","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8204"},"Id":1242,"Title":"La montaña sagrada","Time":114,"IMDB_Rating":7.9,"Director":"Alejandro Jodorowsky","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8205"},"Id":1243,"Title":"Nueve reinas","Time":114,"IMDB_Rating":7.9,"Director":"Fabián Bielinsky","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8206"},"Id":1244,"Title":"Låt den rätte komma in","Time":114,"IMDB_Rating":7.9,"Director":"Tomas Alfredson","Genre":["Crime","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8207"},"Id":1245,"Title":"Taxi Driver","Time":114,"IMDB_Rating":8.3,"Director":"Martin Scorsese","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8208"},"Id":1246,"Title":"The Magdalene Sisters","Time":114,"IMDB_Rating":7.7,"Director":"Peter Mullan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8209"},"Id":1247,"Title":"The Incredibles","Time":115,"IMDB_Rating":8.0,"Director":"Brad Bird","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820a"},"Id":1248,"Title":"Tropa de Elite","Time":115,"IMDB_Rating":8.0,"Director":"José Padilha","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820b"},"Id":1249,"Title":"The Bourne Ultimatum","Time":115,"IMDB_Rating":8.0,"Director":"Paul Greengrass","Genre":["Action","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820c"},"Id":1250,"Title":"Tropa de Elite 2: O Inimigo Agora é Outro","Time":115,"IMDB_Rating":8.0,"Director":"José Padilha","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820d"},"Id":1251,"Title":"E.T. the Extra-Terrestrial","Time":115,"IMDB_Rating":7.8,"Director":"Steven Spielberg","Genre":["Family","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820e"},"Id":1252,"Title":"Breakfast at Tiffany's","Time":115,"IMDB_Rating":7.6,"Director":"Blake Edwards","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a820f"},"Id":1253,"Title":"Three Billboards Outside Ebbing, Missouri","Time":115,"IMDB_Rating":8.2,"Director":"Martin McDonagh","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8210"},"Id":1254,"Title":"Cowboy Bebop: Tengoku no tobira","Time":115,"IMDB_Rating":7.9,"Director":"Shin'ichirô Watanabe","Genre":["Animation","Action","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8211"},"Id":1255,"Title":"Jagten","Time":115,"IMDB_Rating":8.3,"Director":"Thomas Vinterberg","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8212"},"Id":1256,"Title":"Miller's Crossing","Time":115,"IMDB_Rating":7.7,"Director":"Joel Coen","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8213"},"Id":1257,"Title":"Adaptation.","Time":115,"IMDB_Rating":7.7,"Director":"Spike Jonze","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8214"},"Id":1258,"Title":"Nebraska","Time":115,"IMDB_Rating":7.7,"Director":"Alexander Payne","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8215"},"Id":1259,"Title":"Raiders of the Lost Ark","Time":115,"IMDB_Rating":8.4,"Director":"Steven Spielberg","Genre":["Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8216"},"Id":1260,"Title":"Back to the Future","Time":116,"IMDB_Rating":8.5,"Director":"Robert Zemeckis","Genre":["Adventure","Comedy","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8217"},"Id":1261,"Title":"The Fighter","Time":116,"IMDB_Rating":7.8,"Director":"David O. Russell","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8218"},"Id":1262,"Title":"Gran Torino","Time":116,"IMDB_Rating":8.1,"Director":"Clint Eastwood","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8219"},"Id":1263,"Title":"La vita è bella","Time":116,"IMDB_Rating":8.6,"Director":"Roberto Benigni","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821a"},"Id":1264,"Title":"Arrival","Time":116,"IMDB_Rating":7.9,"Director":"Denis Villeneuve","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821b"},"Id":1265,"Title":"Full Metal Jacket","Time":116,"IMDB_Rating":8.3,"Director":"Stanley Kubrick","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821c"},"Id":1266,"Title":"Barton Fink","Time":116,"IMDB_Rating":7.7,"Director":"Joel Coen","Genre":["Comedy","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821d"},"Id":1267,"Title":"Ocean's Eleven","Time":116,"IMDB_Rating":7.7,"Director":"Steven Soderbergh","Genre":["Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821e"},"Id":1268,"Title":"Interstate 60: Episodes of the Road","Time":116,"IMDB_Rating":7.7,"Director":"Bob Gale","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a821f"},"Id":1269,"Title":"Joyeux Noël","Time":116,"IMDB_Rating":7.7,"Director":"Christian Carion","Genre":["Drama","History","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8220"},"Id":1270,"Title":"En man som heter Ove","Time":116,"IMDB_Rating":7.7,"Director":"Hannes Holm","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8221"},"Id":1271,"Title":"Witness for the Prosecution","Time":116,"IMDB_Rating":8.4,"Director":"Billy Wilder","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8222"},"Id":1272,"Title":"Les diaboliques","Time":117,"IMDB_Rating":8.0,"Director":"Henri-Georges Clouzot","Genre":["Crime","Drama","Horror"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8223"},"Id":1273,"Title":"The Pursuit of Happyness","Time":117,"IMDB_Rating":8.0,"Director":"Gabriele Muccino","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8224"},"Id":1274,"Title":"Dallas Buyers Club","Time":117,"IMDB_Rating":8.0,"Director":"Jean-Marc Vallée","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8225"},"Id":1275,"Title":"Druk","Time":117,"IMDB_Rating":7.8,"Director":"Thomas Vinterberg","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8226"},"Id":1276,"Title":"Blade Runner","Time":117,"IMDB_Rating":8.1,"Director":"Ridley Scott","Genre":["Action","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8227"},"Id":1277,"Title":"Kaze no tani no Naushika","Time":117,"IMDB_Rating":8.1,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8228"},"Id":1278,"Title":"The Big Lebowski","Time":117,"IMDB_Rating":8.1,"Director":"Joel Coen","Genre":["Comedy","Crime","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8229"},"Id":1279,"Title":"Ôkami kodomo no Ame to Yuki","Time":117,"IMDB_Rating":8.1,"Director":"Mamoru Hosoda","Genre":["Animation","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822a"},"Id":1280,"Title":"300","Time":117,"IMDB_Rating":7.6,"Director":"Zack Snyder","Genre":["Action","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822b"},"Id":1281,"Title":"Kick-Ass","Time":117,"IMDB_Rating":7.6,"Director":"Matthew Vaughn","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822c"},"Id":1282,"Title":"The Fall","Time":117,"IMDB_Rating":7.9,"Director":"Tarsem Singh","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822d"},"Id":1283,"Title":"Nightcrawler","Time":117,"IMDB_Rating":7.9,"Director":"Dan Gilroy","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822e"},"Id":1284,"Title":"M - Eine Stadt sucht einen Mörder","Time":117,"IMDB_Rating":8.3,"Director":"Fritz Lang","Genre":["Crime","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a822f"},"Id":1285,"Title":"Road to Perdition","Time":117,"IMDB_Rating":7.7,"Director":"Sam Mendes","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8230"},"Id":1286,"Title":"Alien","Time":117,"IMDB_Rating":8.4,"Director":"Ridley Scott","Genre":["Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8231"},"Id":1287,"Title":"Spider-Man: Into the Spider-Verse","Time":117,"IMDB_Rating":8.4,"Director":"Bob Persichetti","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8232"},"Id":1288,"Title":"Arsenic and Old Lace","Time":118,"IMDB_Rating":8.0,"Director":"Frank Capra","Genre":["Comedy","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8233"},"Id":1289,"Title":"Roman Holiday","Time":118,"IMDB_Rating":8.0,"Director":"William Wyler","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8234"},"Id":1290,"Title":"The Last Picture Show","Time":118,"IMDB_Rating":8.0,"Director":"Peter Bogdanovich","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8235"},"Id":1291,"Title":"The King's Speech","Time":118,"IMDB_Rating":8.0,"Director":"Tom Hooper","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8236"},"Id":1292,"Title":"Lion","Time":118,"IMDB_Rating":8.0,"Director":"Garth Davis","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8237"},"Id":1293,"Title":"What's Eating Gilbert Grape","Time":118,"IMDB_Rating":7.8,"Director":"Lasse Hallström","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8238"},"Id":1294,"Title":"Room","Time":118,"IMDB_Rating":8.1,"Director":"Lenny Abrahamson","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8239"},"Id":1295,"Title":"The Silence of the Lambs","Time":118,"IMDB_Rating":8.6,"Director":"Jonathan Demme","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823a"},"Id":1296,"Title":"From Here to Eternity","Time":118,"IMDB_Rating":7.6,"Director":"Fred Zinnemann","Genre":["Drama","Romance","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823b"},"Id":1297,"Title":"Omohide poro poro","Time":118,"IMDB_Rating":7.6,"Director":"Isao Takahata","Genre":["Animation","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823c"},"Id":1298,"Title":"Fear and Loathing in Las Vegas","Time":118,"IMDB_Rating":7.6,"Director":"Terry Gilliam","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823d"},"Id":1299,"Title":"Hævnen","Time":118,"IMDB_Rating":7.6,"Director":"Susanne Bier","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823e"},"Id":1300,"Title":"Incredibles 2","Time":118,"IMDB_Rating":7.6,"Director":"Brad Bird","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a823f"},"Id":1301,"Title":"Du rififi chez les hommes","Time":118,"IMDB_Rating":8.2,"Director":"Jules Dassin","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8240"},"Id":1302,"Title":"Pan's Labyrinth","Time":118,"IMDB_Rating":8.2,"Director":"Guillermo del Toro","Genre":["Drama","Fantasy","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8241"},"Id":1303,"Title":"East of Eden","Time":118,"IMDB_Rating":7.9,"Director":"Elia Kazan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8242"},"Id":1304,"Title":"Captain Fantastic","Time":118,"IMDB_Rating":7.9,"Director":"Matt Ross","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8243"},"Id":1305,"Title":"Darbareye Elly","Time":119,"IMDB_Rating":8.0,"Director":"Asghar Farhadi","Genre":["Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8244"},"Id":1306,"Title":"American History X","Time":119,"IMDB_Rating":8.5,"Director":"Tony Kaye","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8245"},"Id":1307,"Title":"Serenity","Time":119,"IMDB_Rating":7.8,"Director":"Joss Whedon","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8246"},"Id":1308,"Title":"Ajeossi","Time":119,"IMDB_Rating":7.8,"Director":"Jeong-beom Lee","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8247"},"Id":1309,"Title":"Pride","Time":119,"IMDB_Rating":7.8,"Director":"Matthew Warchus","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8248"},"Id":1310,"Title":"Hauru no ugoku shiro","Time":119,"IMDB_Rating":8.2,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8249"},"Id":1311,"Title":"The Searchers","Time":119,"IMDB_Rating":7.9,"Director":"John Ford","Genre":["Adventure","Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824a"},"Id":1312,"Title":"The Untouchables","Time":119,"IMDB_Rating":7.9,"Director":"Brian De Palma","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824b"},"Id":1313,"Title":"True Romance","Time":119,"IMDB_Rating":7.9,"Director":"Tony Scott","Genre":["Crime","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824c"},"Id":1314,"Title":"The Bourne Identity","Time":119,"IMDB_Rating":7.9,"Director":"Doug Liman","Genre":["Action","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824d"},"Id":1315,"Title":"Citizen Kane","Time":119,"IMDB_Rating":8.3,"Director":"Orson Welles","Genre":["Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824e"},"Id":1316,"Title":"1917","Time":119,"IMDB_Rating":8.3,"Director":"Sam Mendes","Genre":["Drama","Thriller","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a824f"},"Id":1317,"Title":"The Birds","Time":119,"IMDB_Rating":7.7,"Director":"Alfred Hitchcock","Genre":["Drama","Horror","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8250"},"Id":1318,"Title":"Abre los ojos","Time":119,"IMDB_Rating":7.7,"Director":"Alejandro Amenábar","Genre":["Drama","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8251"},"Id":1319,"Title":"Birdman or (The Unexpected Virtue of Ignorance)","Time":119,"IMDB_Rating":7.7,"Director":"Alejandro G. Iñárritu","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8252"},"Id":1320,"Title":"Deadpool 2","Time":119,"IMDB_Rating":7.7,"Director":"David Leitch","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8253"},"Id":1321,"Title":"Stalag 17","Time":120,"IMDB_Rating":8.0,"Director":"Billy Wilder","Genre":["Comedy","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8254"},"Id":1322,"Title":"Do the Right Thing","Time":120,"IMDB_Rating":8.0,"Director":"Spike Lee","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8255"},"Id":1323,"Title":"Slumdog Millionaire","Time":120,"IMDB_Rating":8.0,"Director":"Danny Boyle","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8256"},"Id":1324,"Title":"Wo hu cang long","Time":120,"IMDB_Rating":7.8,"Director":"Ang Lee","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8257"},"Id":1325,"Title":"Sound of Metal","Time":120,"IMDB_Rating":7.8,"Director":"Darius Marder","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8258"},"Id":1326,"Title":"Rocky","Time":120,"IMDB_Rating":8.1,"Director":"John G. Avildsen","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8259"},"Id":1327,"Title":"Platoon","Time":120,"IMDB_Rating":8.1,"Director":"Oliver Stone","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825a"},"Id":1328,"Title":"Mad Max: Fury Road","Time":120,"IMDB_Rating":8.1,"Director":"George Miller","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825b"},"Id":1329,"Title":"My Cousin Vinny","Time":120,"IMDB_Rating":7.6,"Director":"Jonathan Lynn","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825c"},"Id":1330,"Title":"La piel que habito","Time":120,"IMDB_Rating":7.6,"Director":"Pedro Almodóvar","Genre":["Drama","Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825d"},"Id":1331,"Title":"Ying xiong","Time":120,"IMDB_Rating":7.9,"Director":"Yimou Zhang","Genre":["Action","Adventure","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825e"},"Id":1332,"Title":"A Man for All Seasons","Time":120,"IMDB_Rating":7.7,"Director":"Fred Zinnemann","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a825f"},"Id":1333,"Title":"Blue Velvet","Time":120,"IMDB_Rating":7.7,"Director":"David Lynch","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8260"},"Id":1334,"Title":"Das Experiment","Time":120,"IMDB_Rating":7.7,"Director":"Oliver Hirschbiegel","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8261"},"Id":1335,"Title":"Efter brylluppet","Time":120,"IMDB_Rating":7.7,"Director":"Susanne Bier","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8262"},"Id":1336,"Title":"The Social Network","Time":120,"IMDB_Rating":7.7,"Director":"David Fincher","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8263"},"Id":1337,"Title":"Argo","Time":120,"IMDB_Rating":7.7,"Director":"Ben Affleck","Genre":["Biography","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8264"},"Id":1338,"Title":"Guardians of the Galaxy","Time":121,"IMDB_Rating":8.0,"Director":"James Gunn","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8265"},"Id":1339,"Title":"Awakenings","Time":121,"IMDB_Rating":7.8,"Director":"Penny Marshall","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8266"},"Id":1340,"Title":"A Bronx Tale","Time":121,"IMDB_Rating":7.8,"Director":"Robert De Niro","Genre":["Crime","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8267"},"Id":1341,"Title":"Hot Fuzz","Time":121,"IMDB_Rating":7.8,"Director":"Edgar Wright","Genre":["Action","Comedy","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8268"},"Id":1342,"Title":"La battaglia di Algeri","Time":121,"IMDB_Rating":8.1,"Director":"Gillo Pontecorvo","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8269"},"Id":1343,"Title":"Network","Time":121,"IMDB_Rating":8.1,"Director":"Sidney Lumet","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826a"},"Id":1344,"Title":"Hotel Rwanda","Time":121,"IMDB_Rating":8.1,"Director":"Terry George","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826b"},"Id":1345,"Title":"Star Wars","Time":121,"IMDB_Rating":8.6,"Director":"George Lucas","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826c"},"Id":1346,"Title":"Midnight Express","Time":121,"IMDB_Rating":7.6,"Director":"Alan Parker","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826d"},"Id":1347,"Title":"Dead Man","Time":121,"IMDB_Rating":7.6,"Director":"Jim Jarmusch","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826e"},"Id":1348,"Title":"Sicario","Time":121,"IMDB_Rating":7.6,"Director":"Denis Villeneuve","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a826f"},"Id":1349,"Title":"Some Like It Hot","Time":121,"IMDB_Rating":8.2,"Director":"Billy Wilder","Genre":["Comedy","Music","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8270"},"Id":1350,"Title":"Gegen die Wand","Time":121,"IMDB_Rating":7.9,"Director":"Fatih Akin","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8271"},"Id":1351,"Title":"Manbiki kazoku","Time":121,"IMDB_Rating":7.9,"Director":"Hirokazu Koreeda","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8272"},"Id":1352,"Title":"Good Bye Lenin!","Time":121,"IMDB_Rating":7.7,"Director":"Wolfgang Becker","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8273"},"Id":1353,"Title":"A Streetcar Named Desire","Time":122,"IMDB_Rating":8.0,"Director":"Elia Kazan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8274"},"Id":1354,"Title":"The Exorcist","Time":122,"IMDB_Rating":8.0,"Director":"William Friedkin","Genre":["Horror"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8275"},"Id":1355,"Title":"Joker","Time":122,"IMDB_Rating":8.5,"Director":"Todd Phillips","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8276"},"Id":1356,"Title":"Glory","Time":122,"IMDB_Rating":7.8,"Director":"Edward Zwick","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8277"},"Id":1357,"Title":"Auf der anderen Seite","Time":122,"IMDB_Rating":7.8,"Director":"Fatih Akin","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8278"},"Id":1358,"Title":"No Country for Old Men","Time":122,"IMDB_Rating":8.1,"Director":"Ethan Coen","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8279"},"Id":1359,"Title":"Kahaani","Time":122,"IMDB_Rating":8.1,"Director":"Sujoy Ghosh","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827a"},"Id":1360,"Title":"Relatos salvajes","Time":122,"IMDB_Rating":8.1,"Director":"Damián Szifron","Genre":["Comedy","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827b"},"Id":1361,"Title":"Portrait de la jeune fille en feu","Time":122,"IMDB_Rating":8.1,"Director":"Céline Sciamma","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827c"},"Id":1362,"Title":"Lord of War","Time":122,"IMDB_Rating":7.6,"Director":"Andrew Niccol","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827d"},"Id":1363,"Title":"Black","Time":122,"IMDB_Rating":8.2,"Director":"Sanjay Leela Bhansali","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827e"},"Id":1364,"Title":"Almost Famous","Time":122,"IMDB_Rating":7.9,"Director":"Cameron Crowe","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a827f"},"Id":1365,"Title":"American Beauty","Time":122,"IMDB_Rating":8.3,"Director":"Sam Mendes","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8280"},"Id":1366,"Title":"Amélie","Time":122,"IMDB_Rating":8.3,"Director":"Jean-Pierre Jeunet","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8281"},"Id":1367,"Title":"Training Day","Time":122,"IMDB_Rating":7.7,"Director":"Antoine Fuqua","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8282"},"Id":1368,"Title":"Control","Time":122,"IMDB_Rating":7.7,"Director":"Anton Corbijn","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8283"},"Id":1369,"Title":"3:10 to Yuma","Time":122,"IMDB_Rating":7.7,"Director":"James Mangold","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8284"},"Id":1370,"Title":"Frost/Nixon","Time":122,"IMDB_Rating":7.7,"Director":"Ron Howard","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8285"},"Id":1371,"Title":"Silver Linings Playbook","Time":122,"IMDB_Rating":7.7,"Director":"David O. Russell","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8286"},"Id":1372,"Title":"Anand","Time":122,"IMDB_Rating":8.4,"Director":"Hrishikesh Mukherjee","Genre":["Drama","Musical"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8287"},"Id":1373,"Title":"The Notebook","Time":123,"IMDB_Rating":7.8,"Director":"Nick Cassavetes","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8288"},"Id":1374,"Title":"Atonement","Time":123,"IMDB_Rating":7.8,"Director":"Joe Wright","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8289"},"Id":1375,"Title":"About Time","Time":123,"IMDB_Rating":7.8,"Director":"Richard Curtis","Genre":["Comedy","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828a"},"Id":1376,"Title":"The Man Who Shot Liberty Valance","Time":123,"IMDB_Rating":8.1,"Director":"John Ford","Genre":["Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828b"},"Id":1377,"Title":"Rush","Time":123,"IMDB_Rating":8.1,"Director":"Ron Howard","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828c"},"Id":1378,"Title":"Seven Pounds","Time":123,"IMDB_Rating":7.6,"Director":"Gabriele Muccino","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828d"},"Id":1379,"Title":"Amarcord","Time":123,"IMDB_Rating":7.9,"Director":"Federico Fellini","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828e"},"Id":1380,"Title":"All That Jazz","Time":123,"IMDB_Rating":7.9,"Director":"Bob Fosse","Genre":["Drama","Music","Musical"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a828f"},"Id":1381,"Title":"Jodaeiye Nader az Simin","Time":123,"IMDB_Rating":8.3,"Director":"Asghar Farhadi","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8290"},"Id":1382,"Title":"The Last King of Scotland","Time":123,"IMDB_Rating":7.7,"Director":"Kevin Macdonald","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8291"},"Id":1383,"Title":"The Theory of Everything","Time":123,"IMDB_Rating":7.7,"Director":"James Marsh","Genre":["Biography","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8292"},"Id":1384,"Title":"Jaws","Time":124,"IMDB_Rating":8.0,"Director":"Steven Spielberg","Genre":["Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8293"},"Id":1385,"Title":"Akira","Time":124,"IMDB_Rating":8.0,"Director":"Katsuhiro Ôtomo","Genre":["Animation","Action","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8294"},"Id":1386,"Title":"Sin City","Time":124,"IMDB_Rating":8.0,"Director":"Frank Miller","Genre":["Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8295"},"Id":1387,"Title":"Badhaai ho","Time":124,"IMDB_Rating":8.0,"Director":"Amit Ravindernath Sharma","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8296"},"Id":1388,"Title":"Cabaret","Time":124,"IMDB_Rating":7.8,"Director":"Bob Fosse","Genre":["Drama","Music","Musical"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8297"},"Id":1389,"Title":"Forushande","Time":124,"IMDB_Rating":7.8,"Director":"Asghar Farhadi","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8298"},"Id":1390,"Title":"The Elephant Man","Time":124,"IMDB_Rating":8.1,"Director":"David Lynch","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8299"},"Id":1391,"Title":"Blow","Time":124,"IMDB_Rating":7.6,"Director":"Ted Demme","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829a"},"Id":1392,"Title":"21 Grams","Time":124,"IMDB_Rating":7.6,"Director":"Alejandro G. Iñárritu","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829b"},"Id":1393,"Title":"Match Point","Time":124,"IMDB_Rating":7.6,"Director":"Woody Allen","Genre":["Drama","Romance","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829c"},"Id":1394,"Title":"Synecdoche, New York","Time":124,"IMDB_Rating":7.6,"Director":"Charlie Kaufman","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829d"},"Id":1395,"Title":"Star Wars: Episode V - The Empire Strikes Back","Time":124,"IMDB_Rating":8.7,"Director":"Irvin Kershner","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829e"},"Id":1396,"Title":"Ordinary People","Time":124,"IMDB_Rating":7.7,"Director":"Robert Redford","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a829f"},"Id":1397,"Title":"Dog Day Afternoon","Time":125,"IMDB_Rating":8.0,"Director":"Sidney Lumet","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a0"},"Id":1398,"Title":"Tenkû no shiro Rapyuta","Time":125,"IMDB_Rating":8.0,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a1"},"Id":1399,"Title":"Big Fish","Time":125,"IMDB_Rating":8.0,"Director":"Tim Burton","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a2"},"Id":1400,"Title":"Chugyeokja","Time":125,"IMDB_Rating":7.8,"Director":"Hong-jin Na","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a3"},"Id":1401,"Title":"Dà hóng denglong gaogao guà","Time":125,"IMDB_Rating":8.1,"Director":"Yimou Zhang","Genre":["Drama","History","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a4"},"Id":1402,"Title":"OMG: Oh My God!","Time":125,"IMDB_Rating":8.1,"Director":"Umesh Shukla","Genre":["Comedy","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a5"},"Id":1403,"Title":"Sen to Chihiro no kamikakushi","Time":125,"IMDB_Rating":8.6,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a6"},"Id":1404,"Title":"The Apartment","Time":125,"IMDB_Rating":8.3,"Director":"Billy Wilder","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a7"},"Id":1405,"Title":"Fantasia","Time":125,"IMDB_Rating":7.7,"Director":"James Algar","Genre":["Animation","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a8"},"Id":1406,"Title":"Philadelphia","Time":125,"IMDB_Rating":7.7,"Director":"Jonathan Demme","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82a9"},"Id":1407,"Title":"The Great Dictator","Time":125,"IMDB_Rating":8.4,"Director":"Charles Chaplin","Genre":["Comedy","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82aa"},"Id":1408,"Title":"Ayla: The Daughter of War","Time":125,"IMDB_Rating":8.4,"Director":"Can Ulkay","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ab"},"Id":1409,"Title":"Her","Time":126,"IMDB_Rating":8.0,"Director":"Spike Jonze","Genre":["Drama","Romance","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ac"},"Id":1410,"Title":"Mar adentro","Time":126,"IMDB_Rating":8.0,"Director":"Alejandro Amenábar","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ad"},"Id":1411,"Title":"Diarios de motocicleta","Time":126,"IMDB_Rating":7.8,"Director":"Walter Salles","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ae"},"Id":1412,"Title":"Vicky Donor","Time":126,"IMDB_Rating":7.8,"Director":"Shoojit Sircar","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82af"},"Id":1413,"Title":"Kaze tachinu","Time":126,"IMDB_Rating":7.8,"Director":"Hayao Miyazaki","Genre":["Animation","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b0"},"Id":1414,"Title":"Dark Waters","Time":126,"IMDB_Rating":7.6,"Director":"Todd Haynes","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b1"},"Id":1415,"Title":"The Treasure of the Sierra Madre","Time":126,"IMDB_Rating":8.2,"Director":"John Huston","Genre":["Adventure","Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b2"},"Id":1416,"Title":"The Manchurian Candidate","Time":126,"IMDB_Rating":7.9,"Director":"John Frankenheimer","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b3"},"Id":1417,"Title":"Iron Man","Time":126,"IMDB_Rating":7.9,"Director":"Jon Favreau","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b4"},"Id":1418,"Title":"Good Will Hunting","Time":126,"IMDB_Rating":8.3,"Director":"Gus Van Sant","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b5"},"Id":1419,"Title":"Le locataire","Time":126,"IMDB_Rating":7.7,"Director":"Roman Polanski","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b6"},"Id":1420,"Title":"The Fifth Element","Time":126,"IMDB_Rating":7.7,"Director":"Luc Besson","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b7"},"Id":1421,"Title":"Death Note: Desu nôto","Time":126,"IMDB_Rating":7.7,"Director":"Shûsuke Kaneko","Genre":["Crime","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b8"},"Id":1422,"Title":"The Fault in Our Stars","Time":126,"IMDB_Rating":7.7,"Director":"Josh Boone","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82b9"},"Id":1423,"Title":"Capharnaüm","Time":126,"IMDB_Rating":8.4,"Director":"Nadine Labaki","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ba"},"Id":1424,"Title":"G.O.R.A.","Time":127,"IMDB_Rating":8.0,"Director":"Ömer Faruk Sorak","Genre":["Adventure","Comedy","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82bb"},"Id":1425,"Title":"Ed Wood","Time":127,"IMDB_Rating":7.8,"Director":"Tim Burton","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82bc"},"Id":1426,"Title":"The World's Fastest Indian","Time":127,"IMDB_Rating":7.8,"Director":"Roger Donaldson","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82bd"},"Id":1427,"Title":"Hidden Figures","Time":127,"IMDB_Rating":7.8,"Director":"Theodore Melfi","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82be"},"Id":1428,"Title":"Cool Hand Luke","Time":127,"IMDB_Rating":8.1,"Director":"Stuart Rosenberg","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82bf"},"Id":1429,"Title":"Jurassic Park","Time":127,"IMDB_Rating":8.1,"Director":"Steven Spielberg","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c0"},"Id":1430,"Title":"Crna macka, beli macor","Time":127,"IMDB_Rating":8.1,"Director":"Emir Kusturica","Genre":["Comedy","Crime","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c1"},"Id":1431,"Title":"Se7en","Time":127,"IMDB_Rating":8.6,"Director":"David Fincher","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c2"},"Id":1432,"Title":"Stardust","Time":127,"IMDB_Rating":7.6,"Director":"Matthew Vaughn","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c3"},"Id":1433,"Title":"Nelyubov","Time":127,"IMDB_Rating":7.6,"Director":"Andrey Zvyagintsev","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c4"},"Id":1434,"Title":"Indiana Jones and the Last Crusade","Time":127,"IMDB_Rating":8.2,"Director":"Steven Spielberg","Genre":["Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c5"},"Id":1435,"Title":"Dawn of the Dead","Time":127,"IMDB_Rating":7.9,"Director":"George A. Romero","Genre":["Action","Adventure","Horror"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c6"},"Id":1436,"Title":"Star Trek","Time":127,"IMDB_Rating":7.9,"Director":"J.J. Abrams","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c7"},"Id":1437,"Title":"Amour","Time":127,"IMDB_Rating":7.9,"Director":"Michael Haneke","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c8"},"Id":1438,"Title":"Life of Pi","Time":127,"IMDB_Rating":7.9,"Director":"Ang Lee","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82c9"},"Id":1439,"Title":"Donnie Brasco","Time":127,"IMDB_Rating":7.7,"Director":"Mike Newell","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ca"},"Id":1440,"Title":"Der Himmel über Berlin","Time":128,"IMDB_Rating":8.0,"Director":"Wim Wenders","Genre":["Drama","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82cb"},"Id":1441,"Title":"Nefes: Vatan Sagolsun","Time":128,"IMDB_Rating":8.0,"Director":"Levent Semerci","Genre":["Action","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82cc"},"Id":1442,"Title":"La La Land","Time":128,"IMDB_Rating":8.0,"Director":"Damien Chazelle","Genre":["Comedy","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82cd"},"Id":1443,"Title":"Mississippi Burning","Time":128,"IMDB_Rating":7.8,"Director":"Alan Parker","Genre":["Crime","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ce"},"Id":1444,"Title":"Lat sau san taam","Time":128,"IMDB_Rating":7.8,"Director":"John Woo","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82cf"},"Id":1445,"Title":"Inherit the Wind","Time":128,"IMDB_Rating":8.1,"Director":"Stanley Kramer","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d0"},"Id":1446,"Title":"Dead Poets Society","Time":128,"IMDB_Rating":8.1,"Director":"Peter Weir","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d1"},"Id":1447,"Title":"Die Hard: With a Vengeance","Time":128,"IMDB_Rating":7.6,"Director":"John McTiernan","Genre":["Action","Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d2"},"Id":1448,"Title":"Sherlock Holmes","Time":128,"IMDB_Rating":7.6,"Director":"Guy Ritchie","Genre":["Action","Adventure","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d3"},"Id":1449,"Title":"Eskiya","Time":128,"IMDB_Rating":8.2,"Director":"Yavuz Turgul","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d4"},"Id":1450,"Title":"Vertigo","Time":128,"IMDB_Rating":8.3,"Director":"Alfred Hitchcock","Genre":["Mystery","Romance","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d5"},"Id":1451,"Title":"The Magnificent Seven","Time":128,"IMDB_Rating":7.7,"Director":"John Sturges","Genre":["Action","Adventure","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d6"},"Id":1452,"Title":"The Grapes of Wrath","Time":129,"IMDB_Rating":8.0,"Director":"John Ford","Genre":["Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d7"},"Id":1453,"Title":"Twelve Monkeys","Time":129,"IMDB_Rating":8.0,"Director":"Terry Gilliam","Genre":["Mystery","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d8"},"Id":1454,"Title":"The Man Who Would Be King","Time":129,"IMDB_Rating":7.8,"Director":"John Huston","Genre":["Adventure","History","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82d9"},"Id":1455,"Title":"Night on Earth","Time":129,"IMDB_Rating":7.8,"Director":"Jim Jarmusch","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82da"},"Id":1456,"Title":"The Game","Time":129,"IMDB_Rating":7.8,"Director":"David Fincher","Genre":["Action","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82db"},"Id":1457,"Title":"Pride & Prejudice","Time":129,"IMDB_Rating":7.8,"Director":"Joe Wright","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82dc"},"Id":1458,"Title":"Madeo","Time":129,"IMDB_Rating":7.8,"Director":"Bong Joon Ho","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82dd"},"Id":1459,"Title":"The Trial of the Chicago 7","Time":129,"IMDB_Rating":7.8,"Director":"Aaron Sorkin","Genre":["Drama","History","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82de"},"Id":1460,"Title":"Mr. Smith Goes to Washington","Time":129,"IMDB_Rating":8.1,"Director":"Frank Capra","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82df"},"Id":1461,"Title":"Spotlight","Time":129,"IMDB_Rating":8.1,"Director":"Tom McCarthy","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e0"},"Id":1462,"Title":"Boksuneun naui geot","Time":129,"IMDB_Rating":7.6,"Director":"Chan-wook Park","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e1"},"Id":1463,"Title":"Inside Man","Time":129,"IMDB_Rating":7.6,"Director":"Spike Lee","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e2"},"Id":1464,"Title":"The Blind Side","Time":129,"IMDB_Rating":7.6,"Director":"John Lee Hancock","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e3"},"Id":1465,"Title":"To Kill a Mockingbird","Time":129,"IMDB_Rating":8.2,"Director":"Robert Mulligan","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e4"},"Id":1466,"Title":"Raging Bull","Time":129,"IMDB_Rating":8.2,"Director":"Martin Scorsese","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e5"},"Id":1467,"Title":"El secreto de sus ojos","Time":129,"IMDB_Rating":8.2,"Director":"Juan José Campanella","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e6"},"Id":1468,"Title":"C.R.A.Z.Y.","Time":129,"IMDB_Rating":7.9,"Director":"Jean-Marc Vallée","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e7"},"Id":1469,"Title":"The Sting","Time":129,"IMDB_Rating":8.3,"Director":"George Roy Hill","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e8"},"Id":1470,"Title":"The Quiet Man","Time":129,"IMDB_Rating":7.7,"Director":"John Ford","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82e9"},"Id":1471,"Title":"The Verdict","Time":129,"IMDB_Rating":7.7,"Director":"Sidney Lumet","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ea"},"Id":1472,"Title":"Primal Fear","Time":129,"IMDB_Rating":7.7,"Director":"Gregory Hoblit","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82eb"},"Id":1473,"Title":"Kingsman: The Secret Service","Time":129,"IMDB_Rating":7.7,"Director":"Matthew Vaughn","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ec"},"Id":1474,"Title":"Being There","Time":130,"IMDB_Rating":8.0,"Director":"Hal Ashby","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ed"},"Id":1475,"Title":"Airlift","Time":130,"IMDB_Rating":8.0,"Director":"Raja Menon","Genre":["Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ee"},"Id":1476,"Title":"The Prestige","Time":130,"IMDB_Rating":8.5,"Director":"Christopher Nolan","Genre":["Drama","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ef"},"Id":1477,"Title":"Tombstone","Time":130,"IMDB_Rating":7.8,"Director":"George P. Cosmatos","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f0"},"Id":1478,"Title":"The Fugitive","Time":130,"IMDB_Rating":7.8,"Director":"Andrew Davis","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f1"},"Id":1479,"Title":"Le passé","Time":130,"IMDB_Rating":7.8,"Director":"Asghar Farhadi","Genre":["Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f2"},"Id":1480,"Title":"The Big Short","Time":130,"IMDB_Rating":7.8,"Director":"Adam McKay","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f3"},"Id":1481,"Title":"Rebecca","Time":130,"IMDB_Rating":8.1,"Director":"Alfred Hitchcock","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f4"},"Id":1482,"Title":"Chinatown","Time":130,"IMDB_Rating":8.1,"Director":"Roman Polanski","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f5"},"Id":1483,"Title":"Okuribito","Time":130,"IMDB_Rating":8.1,"Director":"Yôjirô Takita","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f6"},"Id":1484,"Title":"Harry Potter and the Deathly Hallows: Part 2","Time":130,"IMDB_Rating":8.1,"Director":"David Yates","Genre":["Adventure","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f7"},"Id":1485,"Title":"Koe no katachi","Time":130,"IMDB_Rating":8.1,"Director":"Naoko Yamada","Genre":["Animation","Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f8"},"Id":1486,"Title":"It's a Wonderful Life","Time":130,"IMDB_Rating":8.6,"Director":"Frank Capra","Genre":["Drama","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82f9"},"Id":1487,"Title":"Cidade de Deus","Time":130,"IMDB_Rating":8.6,"Director":"Fernando Meirelles","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82fa"},"Id":1488,"Title":"Dawn of the Planet of the Apes","Time":130,"IMDB_Rating":7.6,"Director":"Matt Reeves","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82fb"},"Id":1489,"Title":"Unforgiven","Time":130,"IMDB_Rating":8.2,"Director":"Clint Eastwood","Genre":["Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82fc"},"Id":1490,"Title":"Green Book","Time":130,"IMDB_Rating":8.2,"Director":"Peter Farrelly","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82fd"},"Id":1491,"Title":"Thor: Ragnarok","Time":130,"IMDB_Rating":7.9,"Director":"Taika Waititi","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82fe"},"Id":1492,"Title":"Knives Out","Time":130,"IMDB_Rating":7.9,"Director":"Rian Johnson","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a82ff"},"Id":1493,"Title":"Serpico","Time":130,"IMDB_Rating":7.7,"Director":"Sidney Lumet","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8300"},"Id":1494,"Title":"Der Name der Rose","Time":130,"IMDB_Rating":7.7,"Director":"Jean-Jacques Annaud","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8301"},"Id":1495,"Title":"Fried Green Tomatoes","Time":130,"IMDB_Rating":7.7,"Director":"Jon Avnet","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8302"},"Id":1496,"Title":"Kai po che!","Time":130,"IMDB_Rating":7.7,"Director":"Abhishek Kapoor","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8303"},"Id":1497,"Title":"Who's Afraid of Virginia Woolf?","Time":131,"IMDB_Rating":8.0,"Director":"Mike Nichols","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8304"},"Id":1498,"Title":"The Count of Monte Cristo","Time":131,"IMDB_Rating":7.8,"Director":"Kevin Reynolds","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8305"},"Id":1499,"Title":"La migliore offerta","Time":131,"IMDB_Rating":7.8,"Director":"Giuseppe Tornatore","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8306"},"Id":1500,"Title":"Le salaire de la peur","Time":131,"IMDB_Rating":8.1,"Director":"Henri-Georges Clouzot","Genre":["Adventure","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8307"},"Id":1501,"Title":"Salinui chueok","Time":131,"IMDB_Rating":8.1,"Director":"Bong Joon Ho","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8308"},"Id":1502,"Title":"Enemy at the Gates","Time":131,"IMDB_Rating":7.6,"Director":"Jean-Jacques Annaud","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8309"},"Id":1503,"Title":"Star Wars: Episode VI - Return of the Jedi","Time":131,"IMDB_Rating":8.3,"Director":"Richard Marquand","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830a"},"Id":1504,"Title":"Incendies","Time":131,"IMDB_Rating":8.3,"Director":"Denis Villeneuve","Genre":["Drama","Mystery","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830b"},"Id":1505,"Title":"X: First Class","Time":131,"IMDB_Rating":7.7,"Director":"Matthew Vaughn","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830c"},"Id":1506,"Title":"Naked","Time":132,"IMDB_Rating":7.8,"Director":"Mike Leigh","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830d"},"Id":1507,"Title":"Million Dollar Baby","Time":132,"IMDB_Rating":8.1,"Director":"Clint Eastwood","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830e"},"Id":1508,"Title":"Gisaengchung","Time":132,"IMDB_Rating":8.6,"Director":"Bong Joon Ho","Genre":["Comedy","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a830f"},"Id":1509,"Title":"Die Hard","Time":132,"IMDB_Rating":8.2,"Director":"John McTiernan","Genre":["Action","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8310"},"Id":1510,"Title":"V for Vendetta","Time":132,"IMDB_Rating":8.2,"Director":"James McTeigue","Genre":["Action","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8311"},"Id":1511,"Title":"Talvar","Time":132,"IMDB_Rating":8.2,"Director":"Meghna Gulzar","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8312"},"Id":1512,"Title":"Brazil","Time":132,"IMDB_Rating":7.9,"Director":"Terry Gilliam","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8313"},"Id":1513,"Title":"X-Men: Days of Future Past","Time":132,"IMDB_Rating":7.9,"Director":"Bryan Singer","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8314"},"Id":1514,"Title":"Call Me by Your Name","Time":132,"IMDB_Rating":7.9,"Director":"Luca Guadagnino","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8315"},"Id":1515,"Title":"Per qualche dollaro in più","Time":132,"IMDB_Rating":8.3,"Director":"Sergio Leone","Genre":["Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8316"},"Id":1516,"Title":"Miracle in cell NO.7","Time":132,"IMDB_Rating":8.3,"Director":"Mehmet Ada Öztekin","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8317"},"Id":1517,"Title":"I Am Sam","Time":132,"IMDB_Rating":7.7,"Director":"Jessie Nelson","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8318"},"Id":1518,"Title":"Star Trek Into Darkness","Time":132,"IMDB_Rating":7.7,"Director":"J.J. Abrams","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8319"},"Id":1519,"Title":"Rain Man","Time":133,"IMDB_Rating":8.0,"Director":"Barry Levinson","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831a"},"Id":1520,"Title":"Red River","Time":133,"IMDB_Rating":7.8,"Director":"Howard Hawks","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831b"},"Id":1521,"Title":"Rogue One","Time":133,"IMDB_Rating":7.8,"Director":"Gareth Edwards","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831c"},"Id":1522,"Title":"In the Name of the Father","Time":133,"IMDB_Rating":8.1,"Director":"Jim Sheridan","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831d"},"Id":1523,"Title":"Seppuku","Time":133,"IMDB_Rating":8.6,"Director":"Masaki Kobayashi","Genre":["Action","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831e"},"Id":1524,"Title":"Un long dimanche de fiançailles","Time":133,"IMDB_Rating":7.6,"Director":"Jean-Pierre Jeunet","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a831f"},"Id":1525,"Title":"Moneyball","Time":133,"IMDB_Rating":7.6,"Director":"Bennett Miller","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8320"},"Id":1526,"Title":"Creed","Time":133,"IMDB_Rating":7.6,"Director":"Ryan Coogler","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8321"},"Id":1527,"Title":"One Flew Over the Cuckoo's Nest","Time":133,"IMDB_Rating":8.7,"Director":"Milos Forman","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8322"},"Id":1528,"Title":"The Blues Brothers","Time":133,"IMDB_Rating":7.9,"Director":"John Landis","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8323"},"Id":1529,"Title":"The Hustler","Time":134,"IMDB_Rating":8.0,"Director":"Robert Rossen","Genre":["Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8324"},"Id":1530,"Title":"Bohemian Rhapsody","Time":134,"IMDB_Rating":8.0,"Director":"Bryan Singer","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8325"},"Id":1531,"Title":"The Remains of the Day","Time":134,"IMDB_Rating":7.8,"Director":"James Ivory","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8326"},"Id":1532,"Title":"English Vinglish","Time":134,"IMDB_Rating":7.8,"Director":"Gauri Shinde","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8327"},"Id":1533,"Title":"Captain Phillips","Time":134,"IMDB_Rating":7.8,"Director":"Paul Greengrass","Genre":["Adventure","Biography","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8328"},"Id":1534,"Title":"What Ever Happened to Baby Jane?","Time":134,"IMDB_Rating":8.1,"Director":"Robert Aldrich","Genre":["Drama","Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8329"},"Id":1535,"Title":"12 Years a Slave","Time":134,"IMDB_Rating":8.1,"Director":"Steve McQueen","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832a"},"Id":1536,"Title":"Lost Highway","Time":134,"IMDB_Rating":7.6,"Director":"David Lynch","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832b"},"Id":1537,"Title":"Only the Brave","Time":134,"IMDB_Rating":7.6,"Director":"Joseph Kosinski","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832c"},"Id":1538,"Title":"Udaan","Time":134,"IMDB_Rating":8.2,"Director":"Vikramaditya Motwane","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832d"},"Id":1539,"Title":"The Lion in Winter","Time":134,"IMDB_Rating":7.9,"Director":"Anthony Harvey","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832e"},"Id":1540,"Title":"Happiness","Time":134,"IMDB_Rating":7.7,"Director":"Todd Solondz","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a832f"},"Id":1541,"Title":"Brokeback Mountain","Time":134,"IMDB_Rating":7.7,"Director":"Ang Lee","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8330"},"Id":1542,"Title":"Mononoke-hime","Time":134,"IMDB_Rating":8.4,"Director":"Hayao Miyazaki","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8331"},"Id":1543,"Title":"Sling Blade","Time":135,"IMDB_Rating":8.0,"Director":"Billy Bob Thornton","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8332"},"Id":1544,"Title":"The Outlaw Josey Wales","Time":135,"IMDB_Rating":7.8,"Director":"Clint Eastwood","Genre":["Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8333"},"Id":1545,"Title":"Little Women","Time":135,"IMDB_Rating":7.8,"Director":"Greta Gerwig","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8334"},"Id":1546,"Title":"The Red Shoes","Time":135,"IMDB_Rating":8.1,"Director":"Michael Powell","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8335"},"Id":1547,"Title":"The Bridges of Madison County","Time":135,"IMDB_Rating":7.6,"Director":"Clint Eastwood","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8336"},"Id":1548,"Title":"25th Hour","Time":135,"IMDB_Rating":7.6,"Director":"Spike Lee","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8337"},"Id":1549,"Title":"A Beautiful Mind","Time":135,"IMDB_Rating":8.2,"Director":"Ron Howard","Genre":["Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8338"},"Id":1550,"Title":"Paan Singh Tomar","Time":135,"IMDB_Rating":8.2,"Director":"Tigmanshu Dhulia","Genre":["Action","Biography","Crime"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8339"},"Id":1551,"Title":"Roma","Time":135,"IMDB_Rating":7.7,"Director":"Alfonso Cuarón","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833a"},"Id":1552,"Title":"Secrets & Lies","Time":136,"IMDB_Rating":8.0,"Director":"Mike Leigh","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833b"},"Id":1553,"Title":"Walk the Line","Time":136,"IMDB_Rating":7.8,"Director":"James Mangold","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833c"},"Id":1554,"Title":"Pink","Time":136,"IMDB_Rating":8.1,"Director":"Aniruddha Roy Chowdhury","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833d"},"Id":1555,"Title":"Sense and Sensibility","Time":136,"IMDB_Rating":7.6,"Director":"Ang Lee","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833e"},"Id":1556,"Title":"Guardians of the Galaxy Vol. 2","Time":136,"IMDB_Rating":7.6,"Director":"James Gunn","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a833f"},"Id":1557,"Title":"A Star Is Born","Time":136,"IMDB_Rating":7.6,"Director":"Bradley Cooper","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8340"},"Id":1558,"Title":"Tôkyô monogatari","Time":136,"IMDB_Rating":8.2,"Director":"Yasujirô Ozu","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8341"},"Id":1559,"Title":"The Matrix","Time":136,"IMDB_Rating":8.7,"Director":"Lana Wachowski","Genre":["Action","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8342"},"Id":1560,"Title":"North by Northwest","Time":136,"IMDB_Rating":8.3,"Director":"Alfred Hitchcock","Genre":["Adventure","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8343"},"Id":1561,"Title":"A Clockwork Orange","Time":136,"IMDB_Rating":8.3,"Director":"Stanley Kubrick","Genre":["Crime","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8344"},"Id":1562,"Title":"Captain America: The Winter Soldier","Time":136,"IMDB_Rating":7.7,"Director":"Anthony Russo","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8345"},"Id":1563,"Title":"Rosemary's Baby","Time":137,"IMDB_Rating":8.0,"Director":"Roman Polanski","Genre":["Drama","Horror"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8346"},"Id":1564,"Title":"Yeopgijeogin geunyeo","Time":137,"IMDB_Rating":8.0,"Director":"Jae-young Kwak","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8347"},"Id":1565,"Title":"Kill Bill: Vol. 2","Time":137,"IMDB_Rating":8.0,"Director":"Quentin Tarantino","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8348"},"Id":1566,"Title":"Kaguyahime no monogatari","Time":137,"IMDB_Rating":8.0,"Director":"Isao Takahata","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8349"},"Id":1567,"Title":"Terminator 2: Judgment Day","Time":137,"IMDB_Rating":8.5,"Director":"James Cameron","Genre":["Action","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834a"},"Id":1568,"Title":"Manchester by the Sea","Time":137,"IMDB_Rating":7.8,"Director":"Kenneth Lonergan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834b"},"Id":1569,"Title":"Logan","Time":137,"IMDB_Rating":8.1,"Director":"James Mangold","Genre":["Action","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834c"},"Id":1570,"Title":"Just Mercy","Time":137,"IMDB_Rating":7.6,"Director":"Destin Daniel Cretton","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834d"},"Id":1571,"Title":"Marriage Story","Time":137,"IMDB_Rating":7.9,"Director":"Noah Baumbach","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834e"},"Id":1572,"Title":"Aliens","Time":137,"IMDB_Rating":8.3,"Director":"James Cameron","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a834f"},"Id":1573,"Title":"Beasts of No Nation","Time":137,"IMDB_Rating":7.7,"Director":"Cary Joji Fukunaga","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8350"},"Id":1574,"Title":"The Lives of Others","Time":137,"IMDB_Rating":8.4,"Director":"Florian Henckel von Donnersmarck","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8351"},"Id":1575,"Title":"8½","Time":138,"IMDB_Rating":8.0,"Director":"Federico Fellini","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8352"},"Id":1576,"Title":"Sleuth","Time":138,"IMDB_Rating":8.0,"Director":"Joseph L. Mankiewicz","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8353"},"Id":1577,"Title":"Raazi","Time":138,"IMDB_Rating":7.8,"Director":"Meghna Gulzar","Genre":["Action","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8354"},"Id":1578,"Title":"Close Encounters of the Third Kind","Time":138,"IMDB_Rating":7.6,"Director":"Steven Spielberg","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8355"},"Id":1579,"Title":"Victoria","Time":138,"IMDB_Rating":7.6,"Director":"Sebastian Schipper","Genre":["Crime","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8356"},"Id":1580,"Title":"All About Eve","Time":138,"IMDB_Rating":8.2,"Director":"Joseph L. Mankiewicz","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8357"},"Id":1581,"Title":"L.A. Confidential","Time":138,"IMDB_Rating":8.2,"Director":"Curtis Hanson","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8358"},"Id":1582,"Title":"Shutter Island","Time":138,"IMDB_Rating":8.2,"Director":"Martin Scorsese","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8359"},"Id":1583,"Title":"Uri: The Surgical Strike","Time":138,"IMDB_Rating":8.2,"Director":"Aditya Dhar","Genre":["Action","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835a"},"Id":1584,"Title":"All the President's Men","Time":138,"IMDB_Rating":7.9,"Director":"Alan J. Pakula","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835b"},"Id":1585,"Title":"Mystic River","Time":138,"IMDB_Rating":7.9,"Director":"Clint Eastwood","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835c"},"Id":1586,"Title":"Jab We Met","Time":138,"IMDB_Rating":7.9,"Director":"Imtiaz Ali","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835d"},"Id":1587,"Title":"Star Wars: Episode VII - The Force Awakens","Time":138,"IMDB_Rating":7.9,"Director":"J.J. Abrams","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835e"},"Id":1588,"Title":"Zulu","Time":138,"IMDB_Rating":7.7,"Director":"Cy Endfield","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a835f"},"Id":1589,"Title":"A Few Good Men","Time":138,"IMDB_Rating":7.7,"Director":"Rob Reiner","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8360"},"Id":1590,"Title":"Mary Poppins","Time":139,"IMDB_Rating":7.8,"Director":"Robert Stevenson","Genre":["Comedy","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8361"},"Id":1591,"Title":"Apocalypto","Time":139,"IMDB_Rating":7.8,"Director":"Mel Gibson","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8362"},"Id":1592,"Title":"Kakushi-toride no san-akunin","Time":139,"IMDB_Rating":8.1,"Director":"Akira Kurosawa","Genre":["Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8363"},"Id":1593,"Title":"Mommy","Time":139,"IMDB_Rating":8.1,"Director":"Xavier Dolan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8364"},"Id":1594,"Title":"Hacksaw Ridge","Time":139,"IMDB_Rating":8.1,"Director":"Mel Gibson","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8365"},"Id":1595,"Title":"Andhadhun","Time":139,"IMDB_Rating":8.3,"Director":"Sriram Raghavan","Genre":["Crime","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8366"},"Id":1596,"Title":"Fight Club","Time":139,"IMDB_Rating":8.8,"Director":"David Fincher","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8367"},"Id":1597,"Title":"As Good as It Gets","Time":139,"IMDB_Rating":7.7,"Director":"James L. Brooks","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8368"},"Id":1598,"Title":"Dancer in the Dark","Time":140,"IMDB_Rating":8.0,"Director":"Lars von Trier","Genre":["Crime","Drama","Musical"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8369"},"Id":1599,"Title":"Taegukgi hwinalrimyeo","Time":140,"IMDB_Rating":8.1,"Director":"Je-kyu Kang","Genre":["Action","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836a"},"Id":1600,"Title":"Apollo 13","Time":140,"IMDB_Rating":7.6,"Director":"Ron Howard","Genre":["Adventure","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836b"},"Id":1601,"Title":"La Vie En Rose","Time":140,"IMDB_Rating":7.6,"Director":"Olivier Dahan","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836c"},"Id":1602,"Title":"Leviafan","Time":140,"IMDB_Rating":7.6,"Director":"Andrey Zvyagintsev","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836d"},"Id":1603,"Title":"Batman Begins","Time":140,"IMDB_Rating":8.2,"Director":"Christopher Nolan","Genre":["Action","Adventure"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836e"},"Id":1604,"Title":"Warrior","Time":140,"IMDB_Rating":8.2,"Director":"Gavin O'Connor","Genre":["Action","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a836f"},"Id":1605,"Title":"Rio Bravo","Time":141,"IMDB_Rating":8.0,"Director":"Howard Hawks","Genre":["Action","Drama","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8370"},"Id":1606,"Title":"The Killing Fields","Time":141,"IMDB_Rating":7.8,"Director":"Roland Joffé","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8371"},"Id":1607,"Title":"Mr. Nobody","Time":141,"IMDB_Rating":7.8,"Director":"Jaco Van Dormael","Genre":["Drama","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8372"},"Id":1608,"Title":"La grande bellezza","Time":141,"IMDB_Rating":7.8,"Director":"Paolo Sorrentino","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8373"},"Id":1609,"Title":"Catch Me If You Can","Time":141,"IMDB_Rating":8.1,"Director":"Steven Spielberg","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8374"},"Id":1610,"Title":"Letters from Iwo Jima","Time":141,"IMDB_Rating":7.9,"Director":"Clint Eastwood","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8375"},"Id":1611,"Title":"Changeling","Time":141,"IMDB_Rating":7.7,"Director":"Clint Eastwood","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8376"},"Id":1612,"Title":"Bridge of Spies","Time":142,"IMDB_Rating":7.6,"Director":"Steven Spielberg","Genre":["Drama","History","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8377"},"Id":1613,"Title":"Dom za vesanje","Time":142,"IMDB_Rating":8.2,"Director":"Emir Kusturica","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8378"},"Id":1614,"Title":"Harry Potter and the Prisoner of Azkaban","Time":142,"IMDB_Rating":7.9,"Director":"Alfonso Cuarón","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8379"},"Id":1615,"Title":"Idi i smotri","Time":142,"IMDB_Rating":8.3,"Director":"Elem Klimov","Genre":["Drama","Thriller","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837a"},"Id":1616,"Title":"Forrest Gump","Time":142,"IMDB_Rating":8.8,"Director":"Robert Zemeckis","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837b"},"Id":1617,"Title":"The Shawshank Redemption","Time":142,"IMDB_Rating":9.3,"Director":"Frank Darabont","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837c"},"Id":1618,"Title":"Pirates of the Caribbean: The Curse of the Black Pearl","Time":143,"IMDB_Rating":8.0,"Director":"Gore Verbinski","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837d"},"Id":1619,"Title":"Blood Diamond","Time":143,"IMDB_Rating":8.0,"Director":"Edward Zwick","Genre":["Adventure","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837e"},"Id":1620,"Title":"The Avengers","Time":143,"IMDB_Rating":8.0,"Director":"Joss Whedon","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a837f"},"Id":1621,"Title":"The Day of the Jackal","Time":143,"IMDB_Rating":7.8,"Director":"Fred Zinnemann","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8380"},"Id":1622,"Title":"Cast Away","Time":143,"IMDB_Rating":7.8,"Director":"Robert Zemeckis","Genre":["Adventure","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8381"},"Id":1623,"Title":"Chhichhore","Time":143,"IMDB_Rating":8.2,"Director":"Nitesh Tiwari","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8382"},"Id":1624,"Title":"Ikiru","Time":143,"IMDB_Rating":8.3,"Director":"Akira Kurosawa","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8383"},"Id":1625,"Title":"Skyfall","Time":143,"IMDB_Rating":7.7,"Director":"Sam Mendes","Genre":["Action","Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8384"},"Id":1626,"Title":"Tengoku to jigoku","Time":143,"IMDB_Rating":8.4,"Director":"Akira Kurosawa","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8385"},"Id":1627,"Title":"Cinderella Man","Time":144,"IMDB_Rating":8.0,"Director":"Ron Howard","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8386"},"Id":1628,"Title":"Casino Royale","Time":144,"IMDB_Rating":8.0,"Director":"Martin Campbell","Genre":["Action","Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8387"},"Id":1629,"Title":"Dev.D","Time":144,"IMDB_Rating":8.0,"Director":"Anurag Kashyap","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8388"},"Id":1630,"Title":"Special Chabbis","Time":144,"IMDB_Rating":8.0,"Director":"Neeraj Pandey","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8389"},"Id":1631,"Title":"The Martian","Time":144,"IMDB_Rating":8.0,"Director":"Ridley Scott","Genre":["Adventure","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838a"},"Id":1632,"Title":"Das weiße Band - Eine deutsche Kindergeschichte","Time":144,"IMDB_Rating":7.8,"Director":"Michael Haneke","Genre":["Drama","History","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838b"},"Id":1633,"Title":"Ang-ma-reul bo-at-da","Time":144,"IMDB_Rating":7.8,"Director":"Jee-woon Kim","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838c"},"Id":1634,"Title":"Lage Raho Munna Bhai","Time":144,"IMDB_Rating":8.1,"Director":"Rajkumar Hirani","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838d"},"Id":1635,"Title":"Kelly's Heroes","Time":144,"IMDB_Rating":7.6,"Director":"Brian G. Hutton","Genre":["Adventure","Comedy","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838e"},"Id":1636,"Title":"L'avventura","Time":144,"IMDB_Rating":7.9,"Director":"Michelangelo Antonioni","Genre":["Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a838f"},"Id":1637,"Title":"Carlito's Way","Time":144,"IMDB_Rating":7.9,"Director":"Brian De Palma","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8390"},"Id":1638,"Title":"Black Hawk Down","Time":144,"IMDB_Rating":7.7,"Director":"Ridley Scott","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8391"},"Id":1639,"Title":"Paris, Texas","Time":145,"IMDB_Rating":8.1,"Director":"Wim Wenders","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8392"},"Id":1640,"Title":"Ah-ga-ssi","Time":145,"IMDB_Rating":8.1,"Director":"Chan-wook Park","Genre":["Drama","Romance","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8393"},"Id":1641,"Title":"Minority Report","Time":145,"IMDB_Rating":7.6,"Director":"Steven Spielberg","Genre":["Action","Crime","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8394"},"Id":1642,"Title":"The Wild Bunch","Time":145,"IMDB_Rating":7.9,"Director":"Sam Peckinpah","Genre":["Action","Adventure","Western"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8395"},"Id":1643,"Title":"Zwartboek","Time":145,"IMDB_Rating":7.7,"Director":"Paul Verhoeven","Genre":["Drama","Thriller","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8396"},"Id":1644,"Title":"The Help","Time":146,"IMDB_Rating":8.0,"Director":"Tate Taylor","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8397"},"Id":1645,"Title":"The Hurricane","Time":146,"IMDB_Rating":7.6,"Director":"Norman Jewison","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8398"},"Id":1646,"Title":"Queen","Time":146,"IMDB_Rating":8.2,"Director":"Vikas Bahl","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a8399"},"Id":1647,"Title":"Goodfellas","Time":146,"IMDB_Rating":8.7,"Director":"Martin Scorsese","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839a"},"Id":1648,"Title":"Man on Fire","Time":146,"IMDB_Rating":7.7,"Director":"Tony Scott","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839b"},"Id":1649,"Title":"Harry Potter and the Deathly Hallows: Part 1","Time":146,"IMDB_Rating":7.7,"Director":"David Yates","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839c"},"Id":1650,"Title":"The Shining","Time":146,"IMDB_Rating":8.4,"Director":"Stanley Kubrick","Genre":["Drama","Horror"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839d"},"Id":1651,"Title":"Straight Outta Compton","Time":147,"IMDB_Rating":7.8,"Director":"F. Gary Gray","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839e"},"Id":1652,"Title":"Captain America: Civil War","Time":147,"IMDB_Rating":7.8,"Director":"Anthony Russo","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a839f"},"Id":1653,"Title":"Sleepers","Time":147,"IMDB_Rating":7.6,"Director":"Barry Levinson","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a0"},"Id":1654,"Title":"Mulholland Dr.","Time":147,"IMDB_Rating":7.9,"Director":"David Lynch","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a1"},"Id":1655,"Title":"Mission: Impossible - Fallout","Time":147,"IMDB_Rating":7.7,"Director":"Christopher McQuarrie","Genre":["Action","Adventure","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a2"},"Id":1656,"Title":"Apocalypse Now","Time":147,"IMDB_Rating":8.4,"Director":"Francis Ford Coppola","Genre":["Drama","Mystery","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a3"},"Id":1657,"Title":"Vikram Vedha","Time":147,"IMDB_Rating":8.4,"Director":"Gayatri","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a4"},"Id":1658,"Title":"Udta Punjab","Time":148,"IMDB_Rating":7.8,"Director":"Abhishek Chaubey","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a5"},"Id":1659,"Title":"Into the Wild","Time":148,"IMDB_Rating":8.1,"Director":"Sean Penn","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a6"},"Id":1660,"Title":"Inception","Time":148,"IMDB_Rating":8.8,"Director":"Christopher Nolan","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a7"},"Id":1661,"Title":"Gone Girl","Time":149,"IMDB_Rating":8.1,"Director":"David Fincher","Genre":["Drama","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a8"},"Id":1662,"Title":"Das Boot","Time":149,"IMDB_Rating":8.3,"Director":"Wolfgang Petersen","Genre":["Adventure","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83a9"},"Id":1663,"Title":"2001: A Space Odyssey","Time":149,"IMDB_Rating":8.3,"Director":"Stanley Kubrick","Genre":["Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83aa"},"Id":1664,"Title":"Avengers: Infinity War","Time":149,"IMDB_Rating":8.4,"Director":"Anthony Russo","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ab"},"Id":1665,"Title":"Serbuan maut 2: Berandal","Time":150,"IMDB_Rating":8.0,"Director":"Gareth Evans","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ac"},"Id":1666,"Title":"The Pianist","Time":150,"IMDB_Rating":8.5,"Director":"Roman Polanski","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ad"},"Id":1667,"Title":"The Dirty Dozen","Time":150,"IMDB_Rating":7.7,"Director":"Robert Aldrich","Genre":["Action","Adventure","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ae"},"Id":1668,"Title":"Papillon","Time":151,"IMDB_Rating":8.0,"Director":"Franklin J. Schaffner","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83af"},"Id":1669,"Title":"The Departed","Time":151,"IMDB_Rating":8.5,"Director":"Martin Scorsese","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b0"},"Id":1670,"Title":"Barfi!","Time":151,"IMDB_Rating":8.1,"Director":"Anurag Basu","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b1"},"Id":1671,"Title":"All Quiet on the Western Front","Time":152,"IMDB_Rating":8.0,"Director":"Lewis Milestone","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b2"},"Id":1672,"Title":"The Dark Knight","Time":152,"IMDB_Rating":9.0,"Director":"Christopher Nolan","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b3"},"Id":1673,"Title":"Män som hatar kvinnor","Time":152,"IMDB_Rating":7.8,"Director":"Niels Arden Oplev","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b4"},"Id":1674,"Title":"Ford v Ferrari","Time":152,"IMDB_Rating":8.1,"Director":"James Mangold","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b5"},"Id":1675,"Title":"Harry Potter and the Sorcerer's Stone","Time":152,"IMDB_Rating":7.6,"Director":"Chris Columbus","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b6"},"Id":1676,"Title":"Ray","Time":152,"IMDB_Rating":7.7,"Director":"Taylor Hackford","Genre":["Biography","Drama","Music"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b7"},"Id":1677,"Title":"Prisoners","Time":153,"IMDB_Rating":8.1,"Director":"Denis Villeneuve","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b8"},"Id":1678,"Title":"PK","Time":153,"IMDB_Rating":8.1,"Director":"Rajkumar Hirani","Genre":["Comedy","Drama","Musical"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83b9"},"Id":1679,"Title":"Soorarai Pottru","Time":153,"IMDB_Rating":8.6,"Director":"Sudha Kongara","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ba"},"Id":1680,"Title":"Harry Potter and the Half-Blood Prince","Time":153,"IMDB_Rating":7.6,"Director":"David Yates","Genre":["Action","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83bb"},"Id":1681,"Title":"Chak De! India","Time":153,"IMDB_Rating":8.2,"Director":"Shimit Amin","Genre":["Drama","Family","Sport"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83bc"},"Id":1682,"Title":"Metropolis","Time":153,"IMDB_Rating":8.3,"Director":"Fritz Lang","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83bd"},"Id":1683,"Title":"Inglourious Basterds","Time":153,"IMDB_Rating":8.3,"Director":"Quentin Tarantino","Genre":["Adventure","Drama","War"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83be"},"Id":1684,"Title":"Empire of the Sun","Time":153,"IMDB_Rating":7.7,"Director":"Steven Spielberg","Genre":["Action","Drama","History"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83bf"},"Id":1685,"Title":"Gully Boy","Time":154,"IMDB_Rating":8.0,"Director":"Zoya Akhtar","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c0"},"Id":1686,"Title":"The Color Purple","Time":154,"IMDB_Rating":7.8,"Director":"Steven Spielberg","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c1"},"Id":1687,"Title":"Amores perros","Time":154,"IMDB_Rating":8.1,"Director":"Alejandro G. Iñárritu","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c2"},"Id":1688,"Title":"The Last Samurai","Time":154,"IMDB_Rating":7.7,"Director":"Edward Zwick","Genre":["Action","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c3"},"Id":1689,"Title":"Pulp Fiction","Time":154,"IMDB_Rating":8.9,"Director":"Quentin Tarantino","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c4"},"Id":1690,"Title":"Nuovo Cinema Paradiso","Time":155,"IMDB_Rating":8.5,"Director":"Giuseppe Tornatore","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c5"},"Id":1691,"Title":"Gladiator","Time":155,"IMDB_Rating":8.5,"Director":"Ridley Scott","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c6"},"Id":1692,"Title":"Zindagi Na Milegi Dobara","Time":155,"IMDB_Rating":8.1,"Director":"Zoya Akhtar","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c7"},"Id":1693,"Title":"Boogie Nights","Time":155,"IMDB_Rating":7.9,"Director":"Paul Thomas Anderson","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c8"},"Id":1694,"Title":"Un prophète","Time":155,"IMDB_Rating":7.9,"Director":"Jacques Audiard","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83c9"},"Id":1695,"Title":"Scent of a Woman","Time":156,"IMDB_Rating":8.0,"Director":"Martin Brest","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83ca"},"Id":1696,"Title":"The Revenant","Time":156,"IMDB_Rating":8.0,"Director":"Alejandro G. Iñárritu","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89b60b80dec3a0a83cb"},"Id":1697,"Title":"Munna Bhai M.B.B.S.","Time":156,"IMDB_Rating":8.1,"Director":"Rajkumar Hirani","Genre":["Comedy","Drama","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83cc"},"Id":1698,"Title":"Hera Pheri","Time":156,"IMDB_Rating":8.2,"Director":"Priyadarshan","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83cd"},"Id":1699,"Title":"Der Untergang","Time":156,"IMDB_Rating":8.2,"Director":"Oliver Hirschbiegel","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ce"},"Id":1700,"Title":"K.G.F: Chapter 1","Time":156,"IMDB_Rating":8.2,"Director":"Prashanth Neel","Genre":["Action","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83cf"},"Id":1701,"Title":"The Insider","Time":157,"IMDB_Rating":7.8,"Director":"Michael Mann","Genre":["Biography","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d0"},"Id":1702,"Title":"American Gangster","Time":157,"IMDB_Rating":7.8,"Director":"Ridley Scott","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d1"},"Id":1703,"Title":"Giù la testa","Time":157,"IMDB_Rating":7.6,"Director":"Sergio Leone","Genre":["Drama","War","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d2"},"Id":1704,"Title":"Bir Zamanlar Anadolu'da","Time":157,"IMDB_Rating":7.9,"Director":"Nuri Bilge Ceylan","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d3"},"Id":1705,"Title":"Harry Potter and the Goblet of Fire","Time":157,"IMDB_Rating":7.7,"Director":"Mike Newell","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d4"},"Id":1706,"Title":"Zodiac","Time":157,"IMDB_Rating":7.7,"Director":"David Fincher","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d5"},"Id":1707,"Title":"The Girl with the Dragon Tattoo","Time":158,"IMDB_Rating":7.8,"Director":"David Fincher","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d6"},"Id":1708,"Title":"Fitzcarraldo","Time":158,"IMDB_Rating":8.1,"Director":"Werner Herzog","Genre":["Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d7"},"Id":1709,"Title":"There Will Be Blood","Time":158,"IMDB_Rating":8.2,"Director":"Paul Thomas Anderson","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d8"},"Id":1710,"Title":"Where Eagles Dare","Time":158,"IMDB_Rating":7.7,"Director":"Brian G. Hutton","Genre":["Action","Adventure","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83d9"},"Id":1711,"Title":"Baby","Time":159,"IMDB_Rating":8.0,"Director":"Neeraj Pandey","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83da"},"Id":1712,"Title":"Bãhubali: The Beginning","Time":159,"IMDB_Rating":8.0,"Director":"S.S. Rajamouli","Genre":["Action","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83db"},"Id":1713,"Title":"Breaking the Waves","Time":159,"IMDB_Rating":7.8,"Director":"Lars von Trier","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83dc"},"Id":1714,"Title":"Rockstar","Time":159,"IMDB_Rating":7.7,"Director":"Imtiaz Ali","Genre":["Drama","Music","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83dd"},"Id":1715,"Title":"Haider","Time":160,"IMDB_Rating":8.1,"Director":"Vishal Bhardwaj","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83de"},"Id":1716,"Title":"Hamilton","Time":160,"IMDB_Rating":8.6,"Director":"Thomas Kail","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83df"},"Id":1717,"Title":"Andaz Apna Apna","Time":160,"IMDB_Rating":8.2,"Director":"Rajkumar Santoshi","Genre":["Action","Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e0"},"Id":1718,"Title":"Amadeus","Time":160,"IMDB_Rating":8.3,"Director":"Milos Forman","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e1"},"Id":1719,"Title":"Drishyam","Time":160,"IMDB_Rating":8.3,"Director":"Jeethu Joseph","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e2"},"Id":1720,"Title":"Anatomy of a Murder","Time":161,"IMDB_Rating":8.0,"Director":"Otto Preminger","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e3"},"Id":1721,"Title":"The Hobbit: The Desolation of Smaug","Time":161,"IMDB_Rating":7.8,"Director":"Peter Jackson","Genre":["Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e4"},"Id":1722,"Title":"The Bridge on the River Kwai","Time":161,"IMDB_Rating":8.1,"Director":"David Lean","Genre":["Adventure","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e5"},"Id":1723,"Title":"Once Upon a Time... in Hollywood","Time":161,"IMDB_Rating":7.6,"Director":"Quentin Tarantino","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e6"},"Id":1724,"Title":"Il buono, il brutto, il cattivo","Time":161,"IMDB_Rating":8.8,"Director":"Sergio Leone","Genre":["Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e7"},"Id":1725,"Title":"Dangal","Time":161,"IMDB_Rating":8.4,"Director":"Nitesh Tiwari","Genre":["Action","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e8"},"Id":1726,"Title":"Avatar","Time":162,"IMDB_Rating":7.8,"Director":"James Cameron","Genre":["Action","Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83e9"},"Id":1727,"Title":"The Godfather: Part III","Time":162,"IMDB_Rating":7.6,"Director":"Francis Ford Coppola","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ea"},"Id":1728,"Title":"Watchmen","Time":162,"IMDB_Rating":7.6,"Director":"Zack Snyder","Genre":["Action","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83eb"},"Id":1729,"Title":"Stalker","Time":162,"IMDB_Rating":8.2,"Director":"Andrei Tarkovsky","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ec"},"Id":1730,"Title":"Ran","Time":162,"IMDB_Rating":8.2,"Director":"Akira Kurosawa","Genre":["Action","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ed"},"Id":1731,"Title":"Bajrangi Bhaijaan","Time":163,"IMDB_Rating":8.0,"Director":"Kabir Khan","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ee"},"Id":1732,"Title":"Drishyam","Time":163,"IMDB_Rating":8.2,"Director":"Nishikant Kamat","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ef"},"Id":1733,"Title":"The Last Emperor","Time":163,"IMDB_Rating":7.7,"Director":"Bernardo Bertolucci","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f0"},"Id":1734,"Title":"Blade Runner 2049","Time":164,"IMDB_Rating":8.0,"Director":"Denis Villeneuve","Genre":["Action","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f1"},"Id":1735,"Title":"The Dark Knight Rises","Time":164,"IMDB_Rating":8.4,"Director":"Christopher Nolan","Genre":["Action","Adventure"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f2"},"Id":1736,"Title":"My Name Is Khan","Time":165,"IMDB_Rating":8.0,"Director":"Karan Johar","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f3"},"Id":1737,"Title":"Once Upon a Time in the West","Time":165,"IMDB_Rating":8.5,"Director":"Sergio Leone","Genre":["Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f4"},"Id":1738,"Title":"Boyhood","Time":165,"IMDB_Rating":7.9,"Director":"Richard Linklater","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f5"},"Id":1739,"Title":"Taare Zameen Par","Time":165,"IMDB_Rating":8.4,"Director":"Aamir Khan","Genre":["Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f6"},"Id":1740,"Title":"Django Unchained","Time":165,"IMDB_Rating":8.4,"Director":"Quentin Tarantino","Genre":["Drama","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f7"},"Id":1741,"Title":"The Curious Case of Benjamin Button","Time":166,"IMDB_Rating":7.8,"Director":"David Fincher","Genre":["Drama","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f8"},"Id":1742,"Title":"Solaris","Time":167,"IMDB_Rating":8.1,"Director":"Andrei Tarkovsky","Genre":["Drama","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83f9"},"Id":1743,"Title":"Rang De Basanti","Time":167,"IMDB_Rating":8.2,"Director":"Rakeysh Omprakash Mehra","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83fa"},"Id":1744,"Title":"Baahubali 2: The Conclusion","Time":167,"IMDB_Rating":8.2,"Director":"S.S. Rajamouli","Genre":["Action","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83fb"},"Id":1745,"Title":"The Hateful Eight","Time":168,"IMDB_Rating":7.8,"Director":"Quentin Tarantino","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83fc"},"Id":1746,"Title":"The Hobbit: An Unexpected Journey","Time":169,"IMDB_Rating":7.8,"Director":"Peter Jackson","Genre":["Adventure","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83fd"},"Id":1747,"Title":"La leggenda del pianista sull'oceano","Time":169,"IMDB_Rating":8.1,"Director":"Giuseppe Tornatore","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83fe"},"Id":1748,"Title":"Saving Private Ryan","Time":169,"IMDB_Rating":8.6,"Director":"Steven Spielberg","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a83ff"},"Id":1749,"Title":"Interstellar","Time":169,"IMDB_Rating":8.6,"Director":"Christopher Nolan","Genre":["Adventure","Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8400"},"Id":1750,"Title":"The Best Years of Our Lives","Time":170,"IMDB_Rating":8.0,"Director":"William Wyler","Genre":["Drama","Romance","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8401"},"Id":1751,"Title":"My Fair Lady","Time":170,"IMDB_Rating":7.8,"Director":"George Cukor","Genre":["Drama","Family","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8402"},"Id":1752,"Title":"Underground","Time":170,"IMDB_Rating":8.1,"Director":"Emir Kusturica","Genre":["Comedy","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8403"},"Id":1753,"Title":"The Thin Red Line","Time":170,"IMDB_Rating":7.6,"Director":"Terrence Malick","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8404"},"Id":1754,"Title":"Heat","Time":170,"IMDB_Rating":8.2,"Director":"Michael Mann","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8405"},"Id":1755,"Title":"Scarface","Time":170,"IMDB_Rating":8.3,"Director":"Brian De Palma","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8406"},"Id":1756,"Title":"3 Idiots","Time":170,"IMDB_Rating":8.4,"Director":"Rajkumar Hirani","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8407"},"Id":1757,"Title":"Ba wang bie ji","Time":171,"IMDB_Rating":8.1,"Director":"Kaige Chen","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8408"},"Id":1758,"Title":"The Sound of Music","Time":172,"IMDB_Rating":8.0,"Director":"Robert Wise","Genre":["Biography","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8409"},"Id":1759,"Title":"The Great Escape","Time":172,"IMDB_Rating":8.2,"Director":"John Sturges","Genre":["Adventure","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840a"},"Id":1760,"Title":"Patton","Time":172,"IMDB_Rating":7.9,"Director":"Franklin J. Schaffner","Genre":["Biography","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840b"},"Id":1761,"Title":"La dolce vita","Time":174,"IMDB_Rating":8.0,"Director":"Federico Fellini","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840c"},"Id":1762,"Title":"The Godfather","Time":175,"IMDB_Rating":9.2,"Director":"Francis Ford Coppola","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840d"},"Id":1763,"Title":"The Message","Time":177,"IMDB_Rating":8.2,"Director":"Moustapha Akkad","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840e"},"Id":1764,"Title":"Dogville","Time":178,"IMDB_Rating":8.0,"Director":"Lars von Trier","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a840f"},"Id":1765,"Title":"The Longest Day","Time":178,"IMDB_Rating":7.8,"Director":"Ken Annakin","Genre":["Action","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8410"},"Id":1766,"Title":"Casino","Time":178,"IMDB_Rating":8.2,"Director":"Martin Scorsese","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8411"},"Id":1767,"Title":"Braveheart","Time":178,"IMDB_Rating":8.3,"Director":"Mel Gibson","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8412"},"Id":1768,"Title":"The Lord of the Rings: The Fellowship of the Ring","Time":178,"IMDB_Rating":8.8,"Director":"Peter Jackson","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8413"},"Id":1769,"Title":"Judgment at Nuremberg","Time":179,"IMDB_Rating":8.2,"Director":"Stanley Kramer","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8414"},"Id":1770,"Title":"The Lord of the Rings: The Two Towers","Time":179,"IMDB_Rating":8.7,"Director":"Peter Jackson","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8415"},"Id":1771,"Title":"Kagemusha","Time":180,"IMDB_Rating":8.0,"Director":"Akira Kurosawa","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8416"},"Id":1772,"Title":"Bound by Honor","Time":180,"IMDB_Rating":8.0,"Director":"Taylor Hackford","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8417"},"Id":1773,"Title":"The Wolf of Wall Street","Time":180,"IMDB_Rating":8.2,"Director":"Martin Scorsese","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8418"},"Id":1774,"Title":"La vie d'Adèle","Time":180,"IMDB_Rating":7.7,"Director":"Abdellatif Kechiche","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8419"},"Id":1775,"Title":"Fiddler on the Roof","Time":181,"IMDB_Rating":8.0,"Director":"Norman Jewison","Genre":["Drama","Family","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841a"},"Id":1776,"Title":"Dances with Wolves","Time":181,"IMDB_Rating":8.0,"Director":"Kevin Costner","Genre":["Adventure","Drama","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841b"},"Id":1777,"Title":"Avengers: Endgame","Time":181,"IMDB_Rating":8.4,"Director":"Anthony Russo","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841c"},"Id":1778,"Title":"The Deer Hunter","Time":183,"IMDB_Rating":8.1,"Director":"Michael Cimino","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841d"},"Id":1779,"Title":"Dil Chahta Hai","Time":183,"IMDB_Rating":8.1,"Director":"Farhan Akhtar","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841e"},"Id":1780,"Title":"M.S. Dhoni: The Untold Story","Time":184,"IMDB_Rating":7.8,"Director":"Neeraj Pandey","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a841f"},"Id":1781,"Title":"Barry Lyndon","Time":185,"IMDB_Rating":8.1,"Director":"Stanley Kubrick","Genre":["Adventure","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8420"},"Id":1782,"Title":"Kal Ho Naa Ho","Time":186,"IMDB_Rating":8.0,"Director":"Nikkhil Advani","Genre":["Comedy","Drama","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8421"},"Id":1783,"Title":"Bhaag Milkha Bhaag","Time":186,"IMDB_Rating":8.2,"Director":"Rakeysh Omprakash Mehra","Genre":["Biography","Drama","Sport"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8422"},"Id":1784,"Title":"Magnolia","Time":188,"IMDB_Rating":8.0,"Director":"Paul Thomas Anderson","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8423"},"Id":1785,"Title":"Fanny och Alexander","Time":188,"IMDB_Rating":8.1,"Director":"Ingmar Bergman","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8424"},"Id":1786,"Title":"Short Cuts","Time":188,"IMDB_Rating":7.7,"Director":"Robert Altman","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8425"},"Id":1787,"Title":"JFK","Time":189,"IMDB_Rating":8.0,"Director":"Oliver Stone","Genre":["Drama","History","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8426"},"Id":1788,"Title":"Dilwale Dulhania Le Jayenge","Time":189,"IMDB_Rating":8.1,"Director":"Aditya Chopra","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8427"},"Id":1789,"Title":"The Green Mile","Time":189,"IMDB_Rating":8.6,"Director":"Frank Darabont","Genre":["Crime","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8428"},"Id":1790,"Title":"Gandhi","Time":191,"IMDB_Rating":8.0,"Director":"Richard Attenborough","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8429"},"Id":1791,"Title":"Veer-Zaara","Time":192,"IMDB_Rating":7.8,"Director":"Yash Chopra","Genre":["Drama","Family","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842a"},"Id":1792,"Title":"The Right Stuff","Time":193,"IMDB_Rating":7.8,"Director":"Philip Kaufman","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842b"},"Id":1793,"Title":"Titanic","Time":194,"IMDB_Rating":7.8,"Director":"James Cameron","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842c"},"Id":1794,"Title":"Schindler's List","Time":195,"IMDB_Rating":8.9,"Director":"Steven Spielberg","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842d"},"Id":1795,"Title":"Kis Uykusu","Time":196,"IMDB_Rating":8.1,"Director":"Nuri Bilge Ceylan","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842e"},"Id":1796,"Title":"Doctor Zhivago","Time":197,"IMDB_Rating":8.0,"Director":"David Lean","Genre":["Drama","Romance","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a842f"},"Id":1797,"Title":"Spartacus","Time":197,"IMDB_Rating":7.9,"Director":"Stanley Kubrick","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8430"},"Id":1798,"Title":"Giant","Time":201,"IMDB_Rating":7.6,"Director":"George Stevens","Genre":["Drama","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8431"},"Id":1799,"Title":"The Lord of the Rings: The Return of the King","Time":201,"IMDB_Rating":8.9,"Director":"Peter Jackson","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8432"},"Id":1800,"Title":"The Godfather: Part II","Time":202,"IMDB_Rating":9.0,"Director":"Francis Ford Coppola","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8433"},"Id":1801,"Title":"Malcolm X","Time":202,"IMDB_Rating":7.7,"Director":"Spike Lee","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8434"},"Id":1802,"Title":"Sholay","Time":204,"IMDB_Rating":8.2,"Director":"Ramesh Sippy","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8435"},"Id":1803,"Title":"Andrei Rublev","Time":205,"IMDB_Rating":8.1,"Director":"Andrei Tarkovsky","Genre":["Biography","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8436"},"Id":1804,"Title":"Shichinin no samurai","Time":207,"IMDB_Rating":8.6,"Director":"Akira Kurosawa","Genre":["Action","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8437"},"Id":1805,"Title":"The Irishman","Time":209,"IMDB_Rating":7.9,"Director":"Martin Scorsese","Genre":["Biography","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8438"},"Id":1806,"Title":"Swades: We, the People","Time":210,"IMDB_Rating":8.2,"Director":"Ashutosh Gowariker","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8439"},"Id":1807,"Title":"Ben-Hur","Time":212,"IMDB_Rating":8.1,"Director":"William Wyler","Genre":["Adventure","Drama","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843a"},"Id":1808,"Title":"The Ten Commandments","Time":220,"IMDB_Rating":7.9,"Director":"Cecil B. DeMille","Genre":["Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843b"},"Id":1809,"Title":"Lagaan: Once Upon a Time in India","Time":224,"IMDB_Rating":8.1,"Director":"Ashutosh Gowariker","Genre":["Adventure","Drama","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843c"},"Id":1810,"Title":"Lawrence of Arabia","Time":228,"IMDB_Rating":8.3,"Director":"David Lean","Genre":["Adventure","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843d"},"Id":1811,"Title":"Once Upon a Time in America","Time":229,"IMDB_Rating":8.4,"Director":"Sergio Leone","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843e"},"Id":1812,"Title":"Gone with the Wind","Time":238,"IMDB_Rating":8.1,"Director":"Victor Fleming","Genre":["Drama","History","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a843f"},"Id":1813,"Title":"Hamlet","Time":242,"IMDB_Rating":7.7,"Director":"Kenneth Branagh","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8440"},"Id":1814,"Title":"Gangs of Wasseypur","Time":321,"IMDB_Rating":8.2,"Director":"Anurag Kashyap","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8441"},"Id":1815,"Title":"Sherlock Jr.","Time":45,"IMDB_Rating":8.2,"Director":"Buster Keaton","Genre":["Action","Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8442"},"Id":1816,"Title":"Freaks","Time":64,"IMDB_Rating":7.9,"Director":"Tod Browning","Genre":["Drama","Horror"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8443"},"Id":1817,"Title":"The General","Time":67,"IMDB_Rating":8.1,"Director":"Clyde Bruckman","Genre":["Action","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8444"},"Id":1818,"Title":"The Kid","Time":68,"IMDB_Rating":8.3,"Director":"Charles Chaplin","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8445"},"Id":1819,"Title":"Duck Soup","Time":69,"IMDB_Rating":7.8,"Director":"Leo McCarey","Genre":["Comedy","Musical","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8446"},"Id":1820,"Title":"Frankenstein","Time":70,"IMDB_Rating":7.8,"Director":"James Whale","Genre":["Drama","Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8447"},"Id":1821,"Title":"The Secret of Kells","Time":71,"IMDB_Rating":7.6,"Director":"Tomm Moore","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8448"},"Id":1822,"Title":"The Invisible Man","Time":71,"IMDB_Rating":7.7,"Director":"James Whale","Genre":["Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8449"},"Id":1823,"Title":"La planète sauvage","Time":72,"IMDB_Rating":7.8,"Director":"René Laloux","Genre":["Animation","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844a"},"Id":1824,"Title":"The Circus","Time":72,"IMDB_Rating":8.1,"Director":"Charles Chaplin","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844b"},"Id":1825,"Title":"Bronenosets Potemkin","Time":75,"IMDB_Rating":8.0,"Director":"Sergei M. Eisenstein","Genre":["Drama","History","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844c"},"Id":1826,"Title":"Bride of Frankenstein","Time":75,"IMDB_Rating":7.8,"Director":"James Whale","Genre":["Drama","Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844d"},"Id":1827,"Title":"The Nightmare Before Christmas","Time":76,"IMDB_Rating":8.0,"Director":"Henry Selick","Genre":["Animation","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844e"},"Id":1828,"Title":"Batman: Mask of the Phantasm","Time":76,"IMDB_Rating":7.8,"Director":"Kevin Altieri","Genre":["Animation","Action","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a844f"},"Id":1829,"Title":"Das Cabinet des Dr. Caligari","Time":76,"IMDB_Rating":8.1,"Director":"Robert Wiene","Genre":["Fantasy","Horror","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8450"},"Id":1830,"Title":"The Jungle Book","Time":78,"IMDB_Rating":7.6,"Director":"Wolfgang Reitherman","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8451"},"Id":1831,"Title":"Zelig","Time":79,"IMDB_Rating":7.7,"Director":"Woody Allen","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8452"},"Id":1832,"Title":"Rope","Time":80,"IMDB_Rating":8.0,"Director":"Alfred Hitchcock","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8453"},"Id":1833,"Title":"Vivre sa vie: Film en douze tableaux","Time":80,"IMDB_Rating":8.0,"Director":"Jean-Luc Godard","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8454"},"Id":1834,"Title":"Les triplettes de Belleville","Time":80,"IMDB_Rating":7.8,"Director":"Sylvain Chomet","Genre":["Animation","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8455"},"Id":1835,"Title":"Before Sunset","Time":80,"IMDB_Rating":8.1,"Director":"Richard Linklater","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8456"},"Id":1836,"Title":"Invasion of the Body Snatchers","Time":80,"IMDB_Rating":7.7,"Director":"Don Siegel","Genre":["Drama","Horror","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8457"},"Id":1837,"Title":"Le dîner de cons","Time":80,"IMDB_Rating":7.7,"Director":"Francis Veber","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8458"},"Id":1838,"Title":"Pâfekuto burû","Time":81,"IMDB_Rating":8.0,"Director":"Satoshi Kon","Genre":["Animation","Crime","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8459"},"Id":1839,"Title":"Lola rennt","Time":81,"IMDB_Rating":7.6,"Director":"Tom Tykwer","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845a"},"Id":1840,"Title":"Toy Story","Time":81,"IMDB_Rating":8.3,"Director":"John Lasseter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845b"},"Id":1841,"Title":"South Park: Bigger, Longer & Uncut","Time":81,"IMDB_Rating":7.7,"Director":"Trey Parker","Genre":["Animation","Comedy","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845c"},"Id":1842,"Title":"This Is Spinal Tap","Time":82,"IMDB_Rating":7.9,"Director":"Rob Reiner","Genre":["Comedy","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845d"},"Id":1843,"Title":"The Purple Rose of Cairo","Time":82,"IMDB_Rating":7.7,"Director":"Woody Allen","Genre":["Comedy","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845e"},"Id":1844,"Title":"Kôkaku Kidôtai","Time":83,"IMDB_Rating":8.0,"Director":"Mamoru Oshii","Genre":["Animation","Action","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a845f"},"Id":1845,"Title":"The Little Mermaid","Time":83,"IMDB_Rating":7.6,"Director":"Ron Clements","Genre":["Animation","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8460"},"Id":1846,"Title":"The Killing","Time":84,"IMDB_Rating":8.0,"Director":"Stanley Kubrick","Genre":["Crime","Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8461"},"Id":1847,"Title":"Beauty and the Beast","Time":84,"IMDB_Rating":8.0,"Director":"Gary Trousdale","Genre":["Animation","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8462"},"Id":1848,"Title":"Evil Dead II","Time":84,"IMDB_Rating":7.8,"Director":"Sam Raimi","Genre":["Action","Comedy","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8463"},"Id":1849,"Title":"Persona","Time":85,"IMDB_Rating":8.1,"Director":"Ingmar Bergman","Genre":["Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8464"},"Id":1850,"Title":"The Naked Gun: From the Files of Police Squad!","Time":85,"IMDB_Rating":7.6,"Director":"David Zucker","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8465"},"Id":1851,"Title":"High Noon","Time":85,"IMDB_Rating":7.9,"Director":"Fred Zinnemann","Genre":["Drama","Thriller","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8466"},"Id":1852,"Title":"Love and Death","Time":85,"IMDB_Rating":7.7,"Director":"Woody Allen","Genre":["Comedy","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8467"},"Id":1853,"Title":"The Muppet Christmas Carol","Time":85,"IMDB_Rating":7.7,"Director":"Brian Henson","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8468"},"Id":1854,"Title":"Brief Encounter","Time":86,"IMDB_Rating":8.0,"Director":"David Lean","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8469"},"Id":1855,"Title":"The Iron Giant","Time":86,"IMDB_Rating":8.0,"Director":"Brad Bird","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846a"},"Id":1856,"Title":"Once","Time":86,"IMDB_Rating":7.8,"Director":"John Carney","Genre":["Drama","Music","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846b"},"Id":1857,"Title":"The 39 Steps","Time":86,"IMDB_Rating":7.6,"Director":"Alfred Hitchcock","Genre":["Crime","Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846c"},"Id":1858,"Title":"Tonari no Totoro","Time":86,"IMDB_Rating":8.2,"Director":"Hayao Miyazaki","Genre":["Animation","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846d"},"Id":1859,"Title":"What We Do in the Shadows","Time":86,"IMDB_Rating":7.7,"Director":"Jemaine Clement","Genre":["Comedy","Horror"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846e"},"Id":1860,"Title":"Knockin' on Heaven's Door","Time":87,"IMDB_Rating":8.0,"Director":"Thomas Jahn","Genre":["Action","Crime","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a846f"},"Id":1861,"Title":"Modern Times","Time":87,"IMDB_Rating":8.5,"Director":"Charles Chaplin","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8470"},"Id":1862,"Title":"City Lights","Time":87,"IMDB_Rating":8.5,"Director":"Charles Chaplin","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8471"},"Id":1863,"Title":"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Time":87,"IMDB_Rating":8.1,"Director":"Hideaki Anno","Genre":["Animation","Action","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8472"},"Id":1864,"Title":"A Hard Day's Night","Time":87,"IMDB_Rating":7.6,"Director":"Richard Lester","Genre":["Comedy","Music","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8473"},"Id":1865,"Title":"Mandariinid","Time":87,"IMDB_Rating":8.2,"Director":"Zaza Urushadze","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8474"},"Id":1866,"Title":"The Man from Earth","Time":87,"IMDB_Rating":7.9,"Director":"Richard Schenkman","Genre":["Drama","Fantasy","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8475"},"Id":1867,"Title":"Fantastic Mr. Fox","Time":87,"IMDB_Rating":7.9,"Director":"Wes Anderson","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8476"},"Id":1868,"Title":"Laura","Time":88,"IMDB_Rating":8.0,"Director":"Otto Preminger","Genre":["Drama","Film-Noir","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8477"},"Id":1869,"Title":"Bin-jip","Time":88,"IMDB_Rating":8.0,"Director":"Ki-duk Kim","Genre":["Crime","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8478"},"Id":1870,"Title":"The Lion King","Time":88,"IMDB_Rating":8.5,"Director":"Roger Allers","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8479"},"Id":1871,"Title":"Mulan","Time":88,"IMDB_Rating":7.6,"Director":"Tony Bancroft","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847a"},"Id":1872,"Title":"Zombieland","Time":88,"IMDB_Rating":7.6,"Director":"Ruben Fleischer","Genre":["Adventure","Comedy","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847b"},"Id":1873,"Title":"Rashômon","Time":88,"IMDB_Rating":8.2,"Director":"Akira Kurosawa","Genre":["Crime","Drama","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847c"},"Id":1874,"Title":"Airplane!","Time":88,"IMDB_Rating":7.7,"Director":"Jim Abrahams","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847d"},"Id":1875,"Title":"Paths of Glory","Time":88,"IMDB_Rating":8.4,"Director":"Stanley Kubrick","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847e"},"Id":1876,"Title":"Hotaru no haka","Time":89,"IMDB_Rating":8.5,"Director":"Isao Takahata","Genre":["Animation","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a847f"},"Id":1877,"Title":"Jungfrukällan","Time":89,"IMDB_Rating":8.1,"Director":"Ingmar Bergman","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8480"},"Id":1878,"Title":"Stand by Me","Time":89,"IMDB_Rating":8.1,"Director":"Rob Reiner","Genre":["Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8481"},"Id":1879,"Title":"The Station Agent","Time":89,"IMDB_Rating":7.6,"Director":"Tom McCarthy","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8482"},"Id":1880,"Title":"Ladri di biciclette","Time":89,"IMDB_Rating":8.3,"Director":"Vittorio De Sica","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8483"},"Id":1881,"Title":"Bacheha-Ye aseman","Time":89,"IMDB_Rating":8.3,"Director":"Majid Majidi","Genre":["Drama","Family","Sport"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8484"},"Id":1882,"Title":"Office Space","Time":89,"IMDB_Rating":7.7,"Director":"Mike Judge","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8485"},"Id":1883,"Title":"Aladdin","Time":90,"IMDB_Rating":8.0,"Director":"Ron Clements","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8486"},"Id":1884,"Title":"À bout de souffle","Time":90,"IMDB_Rating":7.8,"Director":"Jean-Luc Godard","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8487"},"Id":1885,"Title":"Shrek","Time":90,"IMDB_Rating":7.8,"Director":"Andrew Adamson","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8488"},"Id":1886,"Title":"Tôkyô goddofâzâzu","Time":90,"IMDB_Rating":7.8,"Director":"Satoshi Kon","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8489"},"Id":1887,"Title":"Taken","Time":90,"IMDB_Rating":7.8,"Director":"Pierre Morel","Genre":["Action","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848a"},"Id":1888,"Title":"Dead Man's Shoes","Time":90,"IMDB_Rating":7.6,"Director":"Shane Meadows","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848b"},"Id":1889,"Title":"Hiroshima mon amour","Time":90,"IMDB_Rating":7.9,"Director":"Alain Resnais","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848c"},"Id":1890,"Title":"Les yeux sans visage","Time":90,"IMDB_Rating":7.7,"Director":"Georges Franju","Genre":["Drama","Horror"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848d"},"Id":1891,"Title":"Papurika","Time":90,"IMDB_Rating":7.7,"Director":"Satoshi Kon","Genre":["Animation","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848e"},"Id":1892,"Title":"Flipped","Time":90,"IMDB_Rating":7.7,"Director":"Rob Reiner","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a848f"},"Id":1893,"Title":"The Thin Man","Time":91,"IMDB_Rating":8.0,"Director":"W.S. Van Dyke","Genre":["Comedy","Crime","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8490"},"Id":1894,"Title":"Viskningar och rop","Time":91,"IMDB_Rating":8.1,"Director":"Ingmar Bergman","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8491"},"Id":1895,"Title":"Watership Down","Time":91,"IMDB_Rating":7.6,"Director":"Martin Rosen","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8492"},"Id":1896,"Title":"Smultronstället","Time":91,"IMDB_Rating":8.2,"Director":"Ingmar Bergman","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8493"},"Id":1897,"Title":"Monty Python and the Holy Grail","Time":91,"IMDB_Rating":8.2,"Director":"Terry Gilliam","Genre":["Adventure","Comedy","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8494"},"Id":1898,"Title":"Harold and Maude","Time":91,"IMDB_Rating":7.9,"Director":"Hal Ashby","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8495"},"Id":1899,"Title":"The Ladykillers","Time":91,"IMDB_Rating":7.7,"Director":"Alexander Mackendrick","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8496"},"Id":1900,"Title":"Halloween","Time":91,"IMDB_Rating":7.7,"Director":"John Carpenter","Genre":["Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8497"},"Id":1901,"Title":"Gravity","Time":91,"IMDB_Rating":7.7,"Director":"Alfonso Cuarón","Genre":["Drama","Sci-Fi","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8498"},"Id":1902,"Title":"The Night of the Hunter","Time":92,"IMDB_Rating":8.0,"Director":"Charles Laughton","Genre":["Crime","Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a8499"},"Id":1903,"Title":"Monsters, Inc.","Time":92,"IMDB_Rating":8.1,"Director":"Pete Docter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849a"},"Id":1904,"Title":"Mary and Max","Time":92,"IMDB_Rating":8.1,"Director":"Adam Elliot","Genre":["Animation","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849b"},"Id":1905,"Title":"The Warriors","Time":92,"IMDB_Rating":7.6,"Director":"Walter Hill","Genre":["Action","Crime","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849c"},"Id":1906,"Title":"Trois couleurs: Blanc","Time":92,"IMDB_Rating":7.6,"Director":"Krzysztof Kieslowski","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849d"},"Id":1907,"Title":"His Girl Friday","Time":92,"IMDB_Rating":7.9,"Director":"Howard Hawks","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849e"},"Id":1908,"Title":"Toy Story 2","Time":92,"IMDB_Rating":7.9,"Director":"John Lasseter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a849f"},"Id":1909,"Title":"The Day the Earth Stood Still","Time":92,"IMDB_Rating":7.7,"Director":"Robert Wise","Genre":["Drama","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a0"},"Id":1910,"Title":"Clerks","Time":92,"IMDB_Rating":7.7,"Director":"Kevin Smith","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a1"},"Id":1911,"Title":"Annie Hall","Time":93,"IMDB_Rating":8.0,"Director":"Woody Allen","Genre":["Comedy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a2"},"Id":1912,"Title":"Scarface: The Shame of the Nation","Time":93,"IMDB_Rating":7.8,"Director":"Howard Hawks","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a3"},"Id":1913,"Title":"Trainspotting","Time":93,"IMDB_Rating":8.1,"Director":"Danny Boyle","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a4"},"Id":1914,"Title":"Hachi: A Dog's Tale","Time":93,"IMDB_Rating":8.1,"Director":"Lasse Hallström","Genre":["Biography","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a5"},"Id":1915,"Title":"Song of the Sea","Time":93,"IMDB_Rating":8.1,"Director":"Tomm Moore","Genre":["Animation","Adventure","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a6"},"Id":1916,"Title":"Planes, Trains & Automobiles","Time":93,"IMDB_Rating":7.6,"Director":"John Hughes","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a7"},"Id":1917,"Title":"Jeux d'enfants","Time":93,"IMDB_Rating":7.6,"Director":"Yann Samuell","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a8"},"Id":1918,"Title":"A Christmas Story","Time":93,"IMDB_Rating":7.9,"Director":"Bob Clark","Genre":["Comedy","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84a9"},"Id":1919,"Title":"Blazing Saddles","Time":93,"IMDB_Rating":7.7,"Director":"Mel Brooks","Genre":["Comedy","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84aa"},"Id":1920,"Title":"First Blood","Time":93,"IMDB_Rating":7.7,"Director":"Ted Kotcheff","Genre":["Action","Adventure"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ab"},"Id":1921,"Title":"Rushmore","Time":93,"IMDB_Rating":7.7,"Director":"Wes Anderson","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ac"},"Id":1922,"Title":"In a Lonely Place","Time":94,"IMDB_Rating":8.0,"Director":"Nicholas Ray","Genre":["Drama","Film-Noir","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ad"},"Id":1923,"Title":"Badlands","Time":94,"IMDB_Rating":7.8,"Director":"Terrence Malick","Genre":["Action","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ae"},"Id":1924,"Title":"Days of Heaven","Time":94,"IMDB_Rating":7.8,"Director":"Terrence Malick","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84af"},"Id":1925,"Title":"Adams æbler","Time":94,"IMDB_Rating":7.8,"Director":"Anders Thomas Jensen","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b0"},"Id":1926,"Title":"The Boy in the Striped Pyjamas","Time":94,"IMDB_Rating":7.8,"Director":"Mark Herman","Genre":["Drama","History","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b1"},"Id":1927,"Title":"Moonrise Kingdom","Time":94,"IMDB_Rating":7.8,"Director":"Wes Anderson","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b2"},"Id":1928,"Title":"Loving Vincent","Time":94,"IMDB_Rating":7.8,"Director":"Dorota Kobiela","Genre":["Animation","Biography","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b3"},"Id":1929,"Title":"Sunrise: A Song of Two Humans","Time":94,"IMDB_Rating":8.1,"Director":"F.W. Murnau","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b4"},"Id":1930,"Title":"Life of Brian","Time":94,"IMDB_Rating":8.1,"Director":"Terry Jones","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b5"},"Id":1931,"Title":"Kari-gurashi no Arietti","Time":94,"IMDB_Rating":7.6,"Director":"Hiromasa Yonebayashi","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b6"},"Id":1932,"Title":"Nosferatu","Time":94,"IMDB_Rating":7.9,"Director":"F.W. Murnau","Genre":["Fantasy","Horror"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b7"},"Id":1933,"Title":"Trois couleurs: Bleu","Time":94,"IMDB_Rating":7.9,"Director":"Krzysztof Kieslowski","Genre":["Drama","Music","Mystery"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b8"},"Id":1934,"Title":"Jûbê ninpûchô","Time":94,"IMDB_Rating":7.9,"Director":"Yoshiaki Kawajiri","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84b9"},"Id":1935,"Title":"Kurenai no buta","Time":94,"IMDB_Rating":7.7,"Director":"Hayao Miyazaki","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ba"},"Id":1936,"Title":"Touch of Evil","Time":95,"IMDB_Rating":8.0,"Director":"Orson Welles","Genre":["Crime","Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84bb"},"Id":1937,"Title":"El ángel exterminador","Time":95,"IMDB_Rating":8.1,"Director":"Luis Buñuel","Genre":["Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84bc"},"Id":1938,"Title":"Ivanovo detstvo","Time":95,"IMDB_Rating":8.1,"Director":"Andrei Tarkovsky","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84bd"},"Id":1939,"Title":"Pink Floyd: The Wall","Time":95,"IMDB_Rating":8.1,"Director":"Alan Parker","Genre":["Drama","Fantasy","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84be"},"Id":1940,"Title":"Inside Out","Time":95,"IMDB_Rating":8.1,"Director":"Pete Docter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84bf"},"Id":1941,"Title":"The Muppet Movie","Time":95,"IMDB_Rating":7.6,"Director":"James Frawley","Genre":["Adventure","Comedy","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c0"},"Id":1942,"Title":"When Harry Met Sally...","Time":95,"IMDB_Rating":7.6,"Director":"Rob Reiner","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c1"},"Id":1943,"Title":"Despicable Me","Time":95,"IMDB_Rating":7.6,"Director":"Pierre Coffin","Genre":["Animation","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c2"},"Id":1944,"Title":"The Gold Rush","Time":95,"IMDB_Rating":8.2,"Director":"Charles Chaplin","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c3"},"Id":1945,"Title":"Aguirre, der Zorn Gottes","Time":95,"IMDB_Rating":7.9,"Director":"Werner Herzog","Genre":["Action","Adventure","Biography"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c4"},"Id":1946,"Title":"Hedwig and the Angry Inch","Time":95,"IMDB_Rating":7.7,"Director":"John Cameron Mitchell","Genre":["Comedy","Drama","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c5"},"Id":1947,"Title":"(500) Days of Summer","Time":95,"IMDB_Rating":7.7,"Director":"Marc Webb","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c6"},"Id":1948,"Title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Time":95,"IMDB_Rating":8.4,"Director":"Stanley Kubrick","Genre":["Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c7"},"Id":1949,"Title":"Sweet Smell of Success","Time":96,"IMDB_Rating":8.0,"Director":"Alexander Mackendrick","Genre":["Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c8"},"Id":1950,"Title":"Persepolis","Time":96,"IMDB_Rating":8.0,"Director":"Vincent Paronnaud","Genre":["Animation","Biography","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84c9"},"Id":1951,"Title":"Short Term 12","Time":96,"IMDB_Rating":8.0,"Director":"Destin Daniel Cretton","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ca"},"Id":1952,"Title":"12 Angry Men","Time":96,"IMDB_Rating":9.0,"Director":"Sidney Lumet","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84cb"},"Id":1953,"Title":"The Lady Vanishes","Time":96,"IMDB_Rating":7.8,"Director":"Alfred Hitchcock","Genre":["Mystery","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84cc"},"Id":1954,"Title":"Stagecoach","Time":96,"IMDB_Rating":7.8,"Director":"John Ford","Genre":["Adventure","Drama","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84cd"},"Id":1955,"Title":"Perfetti sconosciuti","Time":96,"IMDB_Rating":7.8,"Director":"Paolo Genovese","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ce"},"Id":1956,"Title":"Sanjuro","Time":96,"IMDB_Rating":8.1,"Director":"Akira Kurosawa","Genre":["Action","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84cf"},"Id":1957,"Title":"Mad Max 2","Time":96,"IMDB_Rating":7.6,"Director":"George Miller","Genre":["Action","Adventure","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d0"},"Id":1958,"Title":"Det sjunde inseglet","Time":96,"IMDB_Rating":8.2,"Director":"Ingmar Bergman","Genre":["Drama","Fantasy","History"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d1"},"Id":1959,"Title":"Up","Time":96,"IMDB_Rating":8.2,"Director":"Pete Docter","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d2"},"Id":1960,"Title":"Klaus","Time":96,"IMDB_Rating":8.2,"Director":"Sergio Pablos","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d3"},"Id":1961,"Title":"Miracle on 34th Street","Time":96,"IMDB_Rating":7.9,"Director":"George Seaton","Genre":["Comedy","Drama","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d4"},"Id":1962,"Title":"A Night at the Opera","Time":96,"IMDB_Rating":7.9,"Director":"Sam Wood","Genre":["Comedy","Music","Musical"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d5"},"Id":1963,"Title":"Night of the Living Dead","Time":96,"IMDB_Rating":7.9,"Director":"George A. Romero","Genre":["Horror","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d6"},"Id":1964,"Title":"Manhattan","Time":96,"IMDB_Rating":7.9,"Director":"Woody Allen","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d7"},"Id":1965,"Title":"Midnight in Paris","Time":96,"IMDB_Rating":7.7,"Director":"Woody Allen","Genre":["Comedy","Fantasy","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d8"},"Id":1966,"Title":"Out of the Past","Time":97,"IMDB_Rating":8.0,"Director":"Jacques Tourneur","Genre":["Crime","Drama","Film-Noir"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84d9"},"Id":1967,"Title":"The Breakfast Club","Time":97,"IMDB_Rating":7.8,"Director":"John Hughes","Genre":["Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84da"},"Id":1968,"Title":"Lifeboat","Time":97,"IMDB_Rating":7.6,"Director":"Alfred Hitchcock","Genre":["Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84db"},"Id":1969,"Title":"Mustang","Time":97,"IMDB_Rating":7.6,"Director":"Deniz Gamze Ergüven","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84dc"},"Id":1970,"Title":"The Peanut Butter Falcon","Time":97,"IMDB_Rating":7.6,"Director":"Tyler Nilson","Genre":["Adventure","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84dd"},"Id":1971,"Title":"Les choristes","Time":97,"IMDB_Rating":7.9,"Director":"Christophe Barratier","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84de"},"Id":1972,"Title":"Moon","Time":97,"IMDB_Rating":7.9,"Director":"Duncan Jones","Genre":["Drama","Mystery","Sci-Fi"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84df"},"Id":1973,"Title":"After Hours","Time":97,"IMDB_Rating":7.7,"Director":"Martin Scorsese","Genre":["Comedy","Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e0"},"Id":1974,"Title":"A Little Princess","Time":97,"IMDB_Rating":7.7,"Director":"Alfonso Cuarón","Genre":["Drama","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e1"},"Id":1975,"Title":"The Princess Bride","Time":98,"IMDB_Rating":8.0,"Director":"Rob Reiner","Genre":["Adventure","Family","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e2"},"Id":1976,"Title":"La double vie de Véronique","Time":98,"IMDB_Rating":7.8,"Director":"Krzysztof Kieslowski","Genre":["Drama","Fantasy","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e3"},"Id":1977,"Title":"La haine","Time":98,"IMDB_Rating":8.1,"Director":"Mathieu Kassovitz","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e4"},"Id":1978,"Title":"Fargo","Time":98,"IMDB_Rating":8.1,"Director":"Joel Coen","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e5"},"Id":1979,"Title":"Fa yeung nin wah","Time":98,"IMDB_Rating":8.1,"Director":"Kar-Wai Wong","Genre":["Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e6"},"Id":1980,"Title":"How to Train Your Dragon","Time":98,"IMDB_Rating":8.1,"Director":"Dean DeBlois","Genre":["Animation","Action","Adventure"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e7"},"Id":1981,"Title":"Philomena","Time":98,"IMDB_Rating":7.6,"Director":"Stephen Frears","Genre":["Biography","Comedy","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e8"},"Id":1982,"Title":"No Man's Land","Time":98,"IMDB_Rating":7.9,"Director":"Danis Tanovic","Genre":["Comedy","Drama","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84e9"},"Id":1983,"Title":"Toki o kakeru shôjo","Time":98,"IMDB_Rating":7.7,"Director":"Mamoru Hosoda","Genre":["Animation","Adventure","Comedy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ea"},"Id":1984,"Title":"Detachment","Time":98,"IMDB_Rating":7.7,"Director":"Tony Kaye","Genre":["Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84eb"},"Id":1985,"Title":"WALL·E","Time":98,"IMDB_Rating":8.4,"Director":"Andrew Stanton","Genre":["Animation","Adventure","Family"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ec"},"Id":1986,"Title":"Per un pugno di dollari","Time":99,"IMDB_Rating":8.0,"Director":"Sergio Leone","Genre":["Action","Drama","Western"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ed"},"Id":1987,"Title":"Waking Life","Time":99,"IMDB_Rating":7.8,"Director":"Richard Linklater","Genre":["Animation","Drama","Fantasy"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ee"},"Id":1988,"Title":"The Shop Around the Corner","Time":99,"IMDB_Rating":8.1,"Director":"Ernst Lubitsch","Genre":["Comedy","Drama","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84ef"},"Id":1989,"Title":"Les quatre cents coups","Time":99,"IMDB_Rating":8.1,"Director":"François Truffaut","Genre":["Crime","Drama"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f0"},"Id":1990,"Title":"Trois couleurs: Rouge","Time":99,"IMDB_Rating":8.1,"Director":"Krzysztof Kieslowski","Genre":["Drama","Mystery","Romance"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f1"},"Id":1991,"Title":"The Grand Budapest Hotel","Time":99,"IMDB_Rating":8.1,"Director":"Wes Anderson","Genre":["Adventure","Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f2"},"Id":1992,"Title":"Blood Simple","Time":99,"IMDB_Rating":7.6,"Director":"Joel Coen","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f3"},"Id":1993,"Title":"Delicatessen","Time":99,"IMDB_Rating":7.6,"Director":"Marc Caro","Genre":["Comedy","Crime"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f4"},"Id":1994,"Title":"To Be or Not to Be","Time":99,"IMDB_Rating":8.2,"Director":"Ernst Lubitsch","Genre":["Comedy","War"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f5"},"Id":1995,"Title":"Höstsonaten","Time":99,"IMDB_Rating":8.2,"Director":"Ingmar Bergman","Genre":["Drama","Music"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f6"},"Id":1996,"Title":"Shaun of the Dead","Time":99,"IMDB_Rating":7.9,"Director":"Edgar Wright","Genre":["Comedy","Horror"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f7"},"Id":1997,"Title":"Reservoir Dogs","Time":99,"IMDB_Rating":8.3,"Director":"Quentin Tarantino","Genre":["Crime","Drama","Thriller"]}
+{"_id":{"$oid":"64a9b89c60b80dec3a0a84f8"},"Id":1998,"Title":"Do lok tin si","Time":99,"IMDB_Rating":7.7,"Director":"Kar-Wai Wong","Genre":["Comedy","Crime","Drama"]}
